@@ -1,0 +1,2936 @@
+[
+  {
+    "_links": {
+      "self": {
+        "href": "https://us.api.blizzard.com/data/wow/profession/164?namespace=static-8.3.0_32861-us"
+      }
+    },
+    "id": 164,
+    "name": {
+      "en_US": "Blacksmithing",
+      "es_MX": "Herrería",
+      "pt_BR": "Ferraria",
+      "de_DE": "Schmiedekunst",
+      "en_GB": "Blacksmithing",
+      "es_ES": "Herrería",
+      "fr_FR": "Forge",
+      "it_IT": "Forgiatura",
+      "ru_RU": "Кузнечное дело",
+      "ko_KR": "대장기술",
+      "zh_TW": "鍛造",
+      "zh_CN": "锻造"
+    },
+    "description": {
+      "en_US": "Higher smithing skill allows you to learn higher level smithing plans.  Blacksmithing plans can be found on trainers around the world as well as from quests and monsters.",
+      "es_MX": "Con un nivel alto de habilidad en herrería, podrás aprender mejores diseños de herrería. Visita a los instructores dispersos por el mundo, completa misiones y derrota a los monstruos para conseguirlos.",
+      "pt_BR": "Um alto nível na perícia ferraria permite aprender instruções de nível mais alto. As instruções podem ser aprendidas ou compradas dos instrutores de ferraria espalhados pelo mundo, bem como saqueadas de monstros e obtidas como recompensa de missões.",
+      "de_DE": "Eine hohe Schmiedefertigkeit ermöglicht es Euch, höherstufigere Schmiedepläne zu benutzen. Pläne könnt Ihr bei Lehrern überall in der Welt erwerben. Tote Gegner hinterlassen manchmal Schmiedepläne oder Ihr erhaltet sie als Questbelohnung.",
+      "en_GB": "Higher smithing skill allows you to learn higher level smithing plans.  Blacksmithing plans can be found on trainers around the world as well as from quests and monsters.",
+      "es_ES": "Con un nivel alto de habilidad en herrería, podrás aprender mejores diseños de herrería. Visita a los instructores dispersos por el mundo, completa misiones y derrota a los monstruos para conseguirlos.",
+      "fr_FR": "Un plus haut score dans la compétence forge vous permet d’apprendre des plans plus difficiles. Les plans pour forgerons se trouvent dans le monde entier auprès de maîtres aussi bien qu’en récompense de quêtes ou qu’en butin de monstres.",
+      "it_IT": "Una maggiore competenza in Forgiatura permette di apprendere progetti di livello superiore. I progetti possono essere acquistati da venditori o istruttori in giro per il mondo o essere ottenuti attraverso missioni o uccidendo mostri.",
+      "ru_RU": "Чем лучше развит этот навык, тем более сложные кузнечные чертежи вы можете использовать. Чертежи можно найти у учителей, а также получить в качестве добычи или награды.",
+      "ko_KR": "대장기술 숙련도가 올라갈수록 고레벨의 대장기술 도면을 배울 수 있습니다. 도면은 전문 대장장이나 퀘스트를 통해 배우거나 몬스터에게서 얻을 수 있습니다.",
+      "zh_TW": "高級的鍛造技能使你可以學習高級的鍛造設計圖。你可以在訓練師那裡學習新的設計圖，也可以通過完成任務或殺死怪物獲得新的設計圖。",
+      "zh_CN": "高级的锻造技能使你可以学习高级的锻造设计图。你可以在训练师那里学习新的设计图，也可以通过完成任务或杀死怪物获得新的设计图。"
+    },
+    "type": {
+      "type": "PRIMARY",
+      "name": {
+        "en_US": "Primary",
+        "es_MX": "Principal",
+        "pt_BR": "Principal",
+        "de_DE": "Primär",
+        "en_GB": "Primary",
+        "es_ES": "Principal",
+        "fr_FR": "Principaux",
+        "it_IT": "Primario",
+        "ru_RU": "Основное",
+        "ko_KR": "주",
+        "zh_TW": "主要",
+        "zh_CN": "主要"
+      }
+    },
+    "media": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/media/profession/164?namespace=static-8.3.0_32861-us"
+      },
+      "id": 164
+    },
+    "skill_tiers": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/164/skill-tier/2437?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Kul Tiran Blacksmithing / Zandalari Blacksmithing",
+          "es_MX": "Herrería kultirana / Herrería zandalari",
+          "pt_BR": "Ferraria de Kul Tiraz / Ferraria de Zandalar",
+          "de_DE": "Schmiedekunst von Kul Tiras / Schmiedekunst von Zandalar",
+          "en_GB": "Kul Tiran Blacksmithing / Zandalari Blacksmithing",
+          "es_ES": "Herrería de Kul Tiras / Herrería Zandalari",
+          "fr_FR": "Forge de Kul Tiras / Forge de Zandalar",
+          "it_IT": "Forgiatura di Kul Tiras / Forgiatura di Zandalar",
+          "ru_RU": "Кул-тирасское кузнечное дело / Зандаларское кузнечное дело",
+          "ko_KR": "쿨 티란 대장기술 / 잔달라 대장기술",
+          "zh_TW": "庫爾提拉斯鍛造 / 贊達拉鍛造",
+          "zh_CN": "库尔提拉斯锻造 / 赞达拉锻造"
+        },
+        "id": 2437
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/164/skill-tier/2454?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Legion Blacksmithing",
+          "es_MX": "Herrería de Legion",
+          "pt_BR": "Ferraria de Legion",
+          "de_DE": "Schmiedekunst der Verheerten Inseln",
+          "en_GB": "Legion Blacksmithing",
+          "es_ES": "Herrería de Legion",
+          "fr_FR": "Forge de Legion",
+          "it_IT": "Forgiatura di Legion",
+          "ru_RU": "Кузнечное дело Legion",
+          "ko_KR": "군단 대장기술",
+          "zh_TW": "軍團鍛造",
+          "zh_CN": "军团锻造"
+        },
+        "id": 2454
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/164/skill-tier/2472?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Draenor Blacksmithing",
+          "es_MX": "Herrería de Draenor",
+          "pt_BR": "Ferraria de Draenor",
+          "de_DE": "Schmiedekunst von Draenor",
+          "en_GB": "Draenor Blacksmithing",
+          "es_ES": "Herrería de Draenor",
+          "fr_FR": "Forge de Draenor",
+          "it_IT": "Forgiatura di Draenor",
+          "ru_RU": "Кузнечное дело Дренора",
+          "ko_KR": "드레노어 대장기술",
+          "zh_TW": "德拉諾鍛造",
+          "zh_CN": "德拉诺锻造"
+        },
+        "id": 2472
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/164/skill-tier/2473?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Pandaria Blacksmithing",
+          "es_MX": "Herrería de Pandaria",
+          "pt_BR": "Ferraria de Pandária",
+          "de_DE": "Schmiedekunst von Pandaria",
+          "en_GB": "Pandaria Blacksmithing",
+          "es_ES": "Herrería de Pandaria",
+          "fr_FR": "Forge de Pandarie",
+          "it_IT": "Forgiatura di Pandaria",
+          "ru_RU": "Кузнечное дело Пандарии",
+          "ko_KR": "판다리아 대장기술",
+          "zh_TW": "潘達利亞鍛造",
+          "zh_CN": "潘达利亚锻造"
+        },
+        "id": 2473
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/164/skill-tier/2474?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Cataclysm Blacksmithing",
+          "es_MX": "Herrería de Cataclysm",
+          "pt_BR": "Ferraria de Cataclysm",
+          "de_DE": "Schmiedekunst des Kataklysmus",
+          "en_GB": "Cataclysm Blacksmithing",
+          "es_ES": "Herrería de Cataclysm",
+          "fr_FR": "Forge de Cataclysm",
+          "it_IT": "Forgiatura di Cataclysm",
+          "ru_RU": "Кузнечное дело времен Катаклизма",
+          "ko_KR": "대격변 대장기술",
+          "zh_TW": "大災變鍛造",
+          "zh_CN": "大地的裂变锻造"
+        },
+        "id": 2474
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/164/skill-tier/2475?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Northrend Blacksmithing",
+          "es_MX": "Herrería de Rasganorte",
+          "pt_BR": "Ferraria de Nortúndria",
+          "de_DE": "Schmiedekunst von Nordend",
+          "en_GB": "Northrend Blacksmithing",
+          "es_ES": "Herrería de Rasganorte",
+          "fr_FR": "Forge du Norfendre",
+          "it_IT": "Forgiatura di Nordania",
+          "ru_RU": "Кузнечное дело Нордскола",
+          "ko_KR": "노스렌드 대장기술",
+          "zh_TW": "北裂境鍛造",
+          "zh_CN": "诺森德锻造"
+        },
+        "id": 2475
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/164/skill-tier/2476?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Outland Blacksmithing",
+          "es_MX": "Herrería de Terrallende",
+          "pt_BR": "Ferraria de Terralém",
+          "de_DE": "Schmiedekunst der Scherbenwelt",
+          "en_GB": "Outland Blacksmithing",
+          "es_ES": "Herrería de Terrallende",
+          "fr_FR": "Forge de l’Outreterre",
+          "it_IT": "Forgiatura delle Terre Esterne",
+          "ru_RU": "Кузнечное дело Запределья",
+          "ko_KR": "아웃랜드 대장기술",
+          "zh_TW": "外域鍛造",
+          "zh_CN": "外域锻造"
+        },
+        "id": 2476
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/164/skill-tier/2477?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Blacksmithing",
+          "es_MX": "Herrería",
+          "pt_BR": "Ferraria",
+          "de_DE": "Schmiedekunst",
+          "en_GB": "Blacksmithing",
+          "es_ES": "Herrería",
+          "fr_FR": "Forge",
+          "it_IT": "Forgiatura",
+          "ru_RU": "Кузнечное дело",
+          "ko_KR": "대장기술",
+          "zh_TW": "鍛造",
+          "zh_CN": "锻造"
+        },
+        "id": 2477
+      }
+    ]
+  },
+  {
+    "_links": {
+      "self": {
+        "href": "https://us.api.blizzard.com/data/wow/profession/165?namespace=static-8.3.0_32861-us"
+      }
+    },
+    "id": 165,
+    "name": {
+      "en_US": "Leatherworking",
+      "es_MX": "Peletería",
+      "pt_BR": "Couraria",
+      "de_DE": "Lederverarbeitung",
+      "en_GB": "Leatherworking",
+      "es_ES": "Peletería",
+      "fr_FR": "Travail du cuir",
+      "it_IT": "Conciatura",
+      "ru_RU": "Кожевничество",
+      "ko_KR": "가죽세공",
+      "zh_TW": "製皮",
+      "zh_CN": "制皮"
+    },
+    "description": {
+      "en_US": "Higher leatherworking skill allows you to learn higher level leatherworking patterns.  Leatherworking patterns can be found on trainers around the world as well as from quests and monsters.",
+      "es_MX": "Con un nivel alto de habilidad en peletería, podrás aprender patrones de nivel superior. Visita a los instructores dispersos por el mundo, completa misiones y derrota a los monstruos para conseguirlos.",
+      "pt_BR": "Um alto nível na perícia couraria permite aprender moldes de nível mais alto. Os moldes podem ser aprendidos ou comprados dos instrutores de couraria espalhados pelo mundo, bem como saqueados de monstros e obtidos como recompensa de missões.",
+      "de_DE": "Eine hohe Lederverarbeitungsfertigkeit ermöglicht es Euch, höherstufigere Schnittmuster zu benutzen. Muster könnt Ihr bei Lehrern überall in der Welt erwerben. Tote Gegner hinterlassen manchmal Schnittmuster oder Ihr erhaltet sie als Questbelohnung.",
+      "en_GB": "Higher leatherworking skill allows you to learn higher level leatherworking patterns.  Leatherworking patterns can be found on trainers around the world as well as from quests and monsters.",
+      "es_ES": "Con un nivel alto de habilidad en peletería, podrás aprender patrones de nivel superior. Visita a los instructores dispersos por el mundo, completa misiones y derrota a los monstruos para conseguirlos.",
+      "fr_FR": "Un plus haut score dans la compétence travail du cuir vous permet d'apprendre des patrons plus difficiles. Ces patrons peuvent être trouvés auprès de maîtres un peu partout dans le monde, sur des monstres ou en récompense de quêtes.",
+      "it_IT": "Una maggiore competenza in Conciatura permette di apprendere modelli di livello superiore. I modelli possono essere acquistati da venditori o istruttori in giro per il mondo o essere ottenuti attraverso missioni o uccidendo mostri.",
+      "ru_RU": "Чем лучше развит этот навык, тем более сложные выкройки для кожи вы можете использовать. Выкройки можно найти у учителей, а также получить в качестве добычи или награды.",
+      "ko_KR": "가죽세공 숙련도가 올라갈수록 고레벨의 가죽세공 도안을 배울 수 있습니다. 도안은 전문 가죽세공인이나 퀘스트를 통해 배우거나 몬스터에게서 얻을 수 있습니다.",
+      "zh_TW": "高級的製皮技能使你可以學習高級的製皮圖樣。你可以在訓練師那裡學習新的圖樣，也可以通過完成任務或殺死怪物獲得新的圖樣。",
+      "zh_CN": "高级的制皮技能使你可以学习高级的制皮图样。你可以在训练师那里学习新的图样，也可以通过完成任务或杀死怪物获得新的图样。"
+    },
+    "type": {
+      "type": "PRIMARY",
+      "name": {
+        "en_US": "Primary",
+        "es_MX": "Principal",
+        "pt_BR": "Principal",
+        "de_DE": "Primär",
+        "en_GB": "Primary",
+        "es_ES": "Principal",
+        "fr_FR": "Principaux",
+        "it_IT": "Primario",
+        "ru_RU": "Основное",
+        "ko_KR": "주",
+        "zh_TW": "主要",
+        "zh_CN": "主要"
+      }
+    },
+    "media": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/media/profession/165?namespace=static-8.3.0_32861-us"
+      },
+      "id": 165
+    },
+    "skill_tiers": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/165/skill-tier/2525?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Kul Tiran Leatherworking / Zandalari Leatherworking",
+          "es_MX": "Peletería kultirana / Peletería zandalari",
+          "pt_BR": "Couraria de Kul Tiraz / Couraria de Zandalar",
+          "de_DE": "Lederverarbeitung von Kul Tiras / Lederverarbeitung von Zandalar",
+          "en_GB": "Kul Tiran Leatherworking / Zandalari Leatherworking",
+          "es_ES": "Peletería de Kul Tiras / Peletería Zandalari",
+          "fr_FR": "Travail du cuir de Kul Tiras / Travail du cuir de Zandalar",
+          "it_IT": "Conciatura di Kul Tiras / Conciatura di Zandalar",
+          "ru_RU": "Кул-тирасское кожевничество / Зандаларское кожевничество",
+          "ko_KR": "쿨 티란 가죽세공 / 잔달라 가죽세공",
+          "zh_TW": "庫爾提拉斯製皮 / 贊達拉製皮",
+          "zh_CN": "库尔提拉斯制皮 / 赞达拉制皮"
+        },
+        "id": 2525
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/165/skill-tier/2526?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Legion Leatherworking",
+          "es_MX": "Peletería de Legion",
+          "pt_BR": "Couraria de Legion",
+          "de_DE": "Lederverarbeitung der Verheerten Inseln",
+          "en_GB": "Legion Leatherworking",
+          "es_ES": "Peletería de Legion",
+          "fr_FR": "Travail du cuir de Legion",
+          "it_IT": "Conciatura di Legion",
+          "ru_RU": "Кожевничество Legion",
+          "ko_KR": "군단 가죽세공",
+          "zh_TW": "軍團製皮",
+          "zh_CN": "军团制皮"
+        },
+        "id": 2526
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/165/skill-tier/2527?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Draenor Leatherworking",
+          "es_MX": "Peletería de Draenor",
+          "pt_BR": "Couraria de Draenor",
+          "de_DE": "Lederverarbeitung von Draenor",
+          "en_GB": "Draenor Leatherworking",
+          "es_ES": "Peletería de Draenor",
+          "fr_FR": "Travail du cuir de Draenor",
+          "it_IT": "Conciatura di Draenor",
+          "ru_RU": "Кожевничество Дренора",
+          "ko_KR": "드레노어 가죽세공",
+          "zh_TW": "德拉諾製皮",
+          "zh_CN": "德拉诺制皮"
+        },
+        "id": 2527
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/165/skill-tier/2528?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Pandaria Leatherworking",
+          "es_MX": "Peletería de Pandaria",
+          "pt_BR": "Couraria de Pandária",
+          "de_DE": "Lederverarbeitung von Pandaria",
+          "en_GB": "Pandaria Leatherworking",
+          "es_ES": "Peletería de Pandaria",
+          "fr_FR": "Travail du cuir de Pandarie",
+          "it_IT": "Conciatura di Pandaria",
+          "ru_RU": "Кожевничество Пандарии",
+          "ko_KR": "판다리아 가죽세공",
+          "zh_TW": "潘達利亞製皮",
+          "zh_CN": "潘达利亚制皮"
+        },
+        "id": 2528
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/165/skill-tier/2529?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Cataclysm Leatherworking",
+          "es_MX": "Peletería de Cataclysm",
+          "pt_BR": "Couraria de Cataclysm",
+          "de_DE": "Lederverarbeitung des Kataklysmus",
+          "en_GB": "Cataclysm Leatherworking",
+          "es_ES": "Peletería de Cataclysm",
+          "fr_FR": "Travail du cuir de Cataclysm",
+          "it_IT": "Conciatura di Cataclysm",
+          "ru_RU": "Кожевничество времен Катаклизма",
+          "ko_KR": "대격변 가죽세공",
+          "zh_TW": "大災變製皮",
+          "zh_CN": "大地的裂变制皮"
+        },
+        "id": 2529
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/165/skill-tier/2530?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Northrend Leatherworking",
+          "es_MX": "Peletería de Rasganorte",
+          "pt_BR": "Couraria de Nortúndria",
+          "de_DE": "Lederverarbeitung von Nordend",
+          "en_GB": "Northrend Leatherworking",
+          "es_ES": "Peletería de Rasganorte",
+          "fr_FR": "Travail du cuir du Norfendre",
+          "it_IT": "Conciatura di Nordania",
+          "ru_RU": "Кожевничество Нордскола",
+          "ko_KR": "노스렌드 가죽세공",
+          "zh_TW": "北裂境製皮",
+          "zh_CN": "诺森德制皮"
+        },
+        "id": 2530
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/165/skill-tier/2531?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Outland Leatherworking",
+          "es_MX": "Peletería de Terrallende",
+          "pt_BR": "Couraria de Terralém",
+          "de_DE": "Lederverarbeitung der Scherbenwelt",
+          "en_GB": "Outland Leatherworking",
+          "es_ES": "Peletería de Terrallende",
+          "fr_FR": "Travail du cuir de l’Outreterre",
+          "it_IT": "Conciatura delle Terre Esterne",
+          "ru_RU": "Кожевничество Запределья",
+          "ko_KR": "아웃랜드 가죽세공",
+          "zh_TW": "外域製皮",
+          "zh_CN": "外域制皮"
+        },
+        "id": 2531
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/165/skill-tier/2532?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Leatherworking",
+          "es_MX": "Peletería",
+          "pt_BR": "Couraria",
+          "de_DE": "Lederverarbeitung",
+          "en_GB": "Leatherworking",
+          "es_ES": "Peletería",
+          "fr_FR": "Travail du cuir",
+          "it_IT": "Conciatura",
+          "ru_RU": "Кожевничество",
+          "ko_KR": "가죽세공",
+          "zh_TW": "製皮",
+          "zh_CN": "制皮"
+        },
+        "id": 2532
+      }
+    ]
+  },
+  {
+    "_links": {
+      "self": {
+        "href": "https://us.api.blizzard.com/data/wow/profession/171?namespace=static-8.3.0_32861-us"
+      }
+    },
+    "id": 171,
+    "name": {
+      "en_US": "Alchemy",
+      "es_MX": "Alquimia",
+      "pt_BR": "Alquimia",
+      "de_DE": "Alchemie",
+      "en_GB": "Alchemy",
+      "es_ES": "Alquimia",
+      "fr_FR": "Alchimie",
+      "it_IT": "Alchimia",
+      "ru_RU": "Алхимия",
+      "ko_KR": "연금술",
+      "zh_TW": "鍊金術",
+      "zh_CN": "炼金术"
+    },
+    "description": {
+      "en_US": "Higher alchemy skill allows you to learn higher level alchemy recipes.  Alchemy recipes can be found on trainers around the world as well as from quests and monsters.",
+      "es_MX": "Con un nivel alto de habilidad en alquimia, podrás aprender recetas de nivel superior. Visita a los instructores dispersos por el mundo, completa misiones y derrota a los monstruos para conseguirlas.",
+      "pt_BR": "Um alto nível na perícia alquimia permite aprender receitas de nível mais alto.  As receitas podem ser aprendidas ou compradas dos instrutores de alquimia espalhados pelo mundo, bem como saqueadas de monstros e obtidas como recompensa de missões.",
+      "de_DE": "Eine hohe Alchemiefertigkeit ermöglicht es Euch, höherstufigere Rezepte zu benutzen. Alchemierezepte könnt Ihr bei Lehrern überall in der Welt erwerben. Tote Gegner hinterlassen manchmal Rezepte oder Ihr erhaltet sie als Questbelohnung.",
+      "en_GB": "Higher alchemy skill allows you to learn higher level alchemy recipes.  Alchemy recipes can be found on trainers around the world as well as from quests and monsters.",
+      "es_ES": "Con un nivel alto de habilidad en alquimia, podrás aprender recetas de nivel superior. Visita a los instructores dispersos por el mundo, completa misiones y derrota a los monstruos para conseguirlas.",
+      "fr_FR": "Un plus haut score dans la compétence alchimie vous permet d’apprendre des recettes plus difficiles. Les recettes d'alchimie se trouvent dans le monde entier auprès de maîtres aussi bien qu’en récompense de quêtes ou qu’en butin de monstres.",
+      "it_IT": "Una maggiore competenza in Alchimia permette di apprendere ricette di livello superiore. Le ricette possono essere acquistate da venditori o istruttori in giro per il mondo o essere ottenute attraverso missioni o uccidendo mostri.",
+      "ru_RU": "Чем лучше развит этот навык, тем более сложные рецепты вы можете использовать. Рецепты можно найти у учителей, а также получить в качестве добычи или награды.",
+      "ko_KR": "연금술 숙련도가 올라갈수록 고레벨의 연금술 조제법을 배울 수 있습니다. 조제법은 전문 연금술사나 퀘스트를 통해 배우거나 몬스터에게서 얻을 수 있습니다.",
+      "zh_TW": "高級的鍊金術技能使你可以學習高級的鍊金術配方。你可以在訓練師那裡學習新的配方，也可以通過完成任務或殺死怪物獲得新的配方。",
+      "zh_CN": "高级的炼金术技能使你可以学习高级的炼金术配方。你可以在训练师那里学习新的配方，也可以通过完成任务或杀死怪物获得新的配方。"
+    },
+    "type": {
+      "type": "PRIMARY",
+      "name": {
+        "en_US": "Primary",
+        "es_MX": "Principal",
+        "pt_BR": "Principal",
+        "de_DE": "Primär",
+        "en_GB": "Primary",
+        "es_ES": "Principal",
+        "fr_FR": "Principaux",
+        "it_IT": "Primario",
+        "ru_RU": "Основное",
+        "ko_KR": "주",
+        "zh_TW": "主要",
+        "zh_CN": "主要"
+      }
+    },
+    "media": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/media/profession/171?namespace=static-8.3.0_32861-us"
+      },
+      "id": 171
+    },
+    "skill_tiers": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/171/skill-tier/2478?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Kul Tiran Alchemy / Zandalari Alchemy",
+          "es_MX": "Alquimia kultirana / Alquimia zandalari",
+          "pt_BR": "Alquimia de Kul Tiraz / Alquimia de Zandalar",
+          "de_DE": "Alchemie von Kul Tiras / Alchemie von Zandalar",
+          "en_GB": "Kul Tiran Alchemy / Zandalari Alchemy",
+          "es_ES": "Alquimia de Kul Tiras / Alquimia Zandalari",
+          "fr_FR": "Alchimie de Kul Tiras / Alchimie de Zandalar",
+          "it_IT": "Alchimia di Kul Tiras / Alchimia di Zandalar",
+          "ru_RU": "Кул-тирасская алхимия / Зандаларская алхимия",
+          "ko_KR": "쿨 티란 연금술 / 잔달라 연금술",
+          "zh_TW": "庫爾提拉斯鍊金術 / 贊達拉鍊金術",
+          "zh_CN": "库尔提拉斯炼金术 / 赞达拉炼金术"
+        },
+        "id": 2478
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/171/skill-tier/2479?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Legion Alchemy",
+          "es_MX": "Alquimia de Legion",
+          "pt_BR": "Alquimia de Legion",
+          "de_DE": "Alchemie der Verheerten Inseln",
+          "en_GB": "Legion Alchemy",
+          "es_ES": "Alquimia de Legion",
+          "fr_FR": "Alchimie de Legion",
+          "it_IT": "Alchimia di Legion",
+          "ru_RU": "Алхимия Legion",
+          "ko_KR": "군단 연금술",
+          "zh_TW": "軍團鍊金術",
+          "zh_CN": "军团炼金"
+        },
+        "id": 2479
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/171/skill-tier/2480?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Draenor Alchemy",
+          "es_MX": "Alquimia de Draenor",
+          "pt_BR": "Alquimia de Draenor",
+          "de_DE": "Alchemie von Draenor",
+          "en_GB": "Draenor Alchemy",
+          "es_ES": "Alquimia de Draenor",
+          "fr_FR": "Alchimie de Draenor",
+          "it_IT": "Alchimia di Draenor",
+          "ru_RU": "Алхимия Дренора",
+          "ko_KR": "드레노어 연금술",
+          "zh_TW": "德拉諾鍊金術",
+          "zh_CN": "德拉诺炼金"
+        },
+        "id": 2480
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/171/skill-tier/2481?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Pandaria Alchemy",
+          "es_MX": "Alquimia de Pandaria",
+          "pt_BR": "Alquimia de Pandária",
+          "de_DE": "Alchemie von Pandaria",
+          "en_GB": "Pandaria Alchemy",
+          "es_ES": "Alquimia de Pandaria",
+          "fr_FR": "Alchimie de Pandarie",
+          "it_IT": "Alchimia di Pandaria",
+          "ru_RU": "Алхимия Пандарии",
+          "ko_KR": "판다리아 연금술",
+          "zh_TW": "潘達利亞鍊金術",
+          "zh_CN": "潘达利亚炼金"
+        },
+        "id": 2481
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/171/skill-tier/2482?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Cataclysm Alchemy",
+          "es_MX": "Alquimia de Cataclysm",
+          "pt_BR": "Alquimia de Cataclysm",
+          "de_DE": "Alchemie des Kataklysmus",
+          "en_GB": "Cataclysm Alchemy",
+          "es_ES": "Alquimia de Cataclysm",
+          "fr_FR": "Alchimie de Cataclysm",
+          "it_IT": "Alchimia di Cataclysm",
+          "ru_RU": "Алхимия времен Катаклизма",
+          "ko_KR": "대격변 연금술",
+          "zh_TW": "大災變鍊金術",
+          "zh_CN": "大地的裂变炼金"
+        },
+        "id": 2482
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/171/skill-tier/2483?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Northrend Alchemy",
+          "es_MX": "Alquimia de Rasganorte",
+          "pt_BR": "Alquimia de Nortúndria",
+          "de_DE": "Alchemie von Nordend",
+          "en_GB": "Northrend Alchemy",
+          "es_ES": "Alquimia de Rasganorte",
+          "fr_FR": "Alchimie du Norfendre",
+          "it_IT": "Alchemica di Nordania",
+          "ru_RU": "Алхимия Нордскола",
+          "ko_KR": "노스렌드 연금술",
+          "zh_TW": "北裂境鍊金術",
+          "zh_CN": "诺森德炼金"
+        },
+        "id": 2483
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/171/skill-tier/2484?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Outland Alchemy",
+          "es_MX": "Alquimia de Terrallende",
+          "pt_BR": "Alquimia de Terralém",
+          "de_DE": "Alchemie der Scherbenwelt",
+          "en_GB": "Outland Alchemy",
+          "es_ES": "Alquimia de Terrallende",
+          "fr_FR": "Alchimie de l’Outreterre",
+          "it_IT": "Alchimia delle Terre Esterne",
+          "ru_RU": "Алхимия Запределья",
+          "ko_KR": "아웃랜드 연금술",
+          "zh_TW": "外域鍊金術",
+          "zh_CN": "外域炼金"
+        },
+        "id": 2484
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/171/skill-tier/2485?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Alchemy",
+          "es_MX": "Alquimia",
+          "pt_BR": "Alquimia",
+          "de_DE": "Alchemie",
+          "en_GB": "Alchemy",
+          "es_ES": "Alquimia",
+          "fr_FR": "Alchimie",
+          "it_IT": "Alchimia",
+          "ru_RU": "Алхимия",
+          "ko_KR": "연금술",
+          "zh_TW": "鍊金術",
+          "zh_CN": "炼金"
+        },
+        "id": 2485
+      }
+    ]
+  },
+  {
+    "_links": {
+      "self": {
+        "href": "https://us.api.blizzard.com/data/wow/profession/182?namespace=static-8.3.0_32861-us"
+      }
+    },
+    "id": 182,
+    "name": {
+      "en_US": "Herbalism",
+      "es_MX": "Herboristería",
+      "pt_BR": "Herborismo",
+      "de_DE": "Kräuterkunde",
+      "en_GB": "Herbalism",
+      "es_ES": "Herboristería",
+      "fr_FR": "Herboristerie",
+      "it_IT": "Erbalismo",
+      "ru_RU": "Травничество",
+      "ko_KR": "약초채집",
+      "zh_TW": "草藥學",
+      "zh_CN": "草药学"
+    },
+    "description": {
+      "en_US": "Higher herbalism skill allows you to harvest more difficult herbs around the world.  If you cannot harvest a specific herb, then increase your skill by harvesting easier to gather herbs in lower level areas.",
+      "es_MX": "Con un nivel alto de habilidad en herboristería podrás recolectar hierbas difíciles de encontrar por el mundo. Si no puedes conseguir una hierba en particular, aumenta tu habilidad recolectando hierbas más fáciles de conseguir en áreas de nivel inferior.",
+      "pt_BR": "Um alto nível na perícia herborismo permite coletar plantas mais raras pelo mundo. Se você não puder coletar um tipo específico de planta, deverá aumentar o seu nível de perícia coletando plantas menos raras em áreas de nível mais baixo.",
+      "de_DE": "Eine hohe Kräuterkundefertigkeit ermöglicht es Euch, schwierigere Kräuter zu ernten. Wenn Ihr ein bestimmtes Kraut nicht ernten könnt, steigert Eure Kräuterkundefertigkeit, indem Ihr in niedrigstufigeren Gebieten leichtere Kräuter erntet.",
+      "en_GB": "Higher herbalism skill allows you to harvest more difficult herbs around the world.  If you cannot harvest a specific herb, then increase your skill by harvesting easier to gather herbs in lower level areas.",
+      "es_ES": "Con un nivel alto de habilidad en herboristería podrás recolectar hierbas difíciles de encontrar por el mundo. Si no puedes conseguir una hierba en particular, aumenta tu habilidad recolectando hierbas más fáciles de conseguir en áreas de nivel inferior.",
+      "fr_FR": "Un plus haut score dans la compétence herboristerie vous permet de récolter des herbes plus difficiles. Si vous ne pouvez pas récolter une herbe donnée, augmentez votre score en récoltant des herbes plus accessibles dans des zones de niveau inférieur.",
+      "it_IT": "Una maggiore competenza in Erbalismo permette di raccogliere piante di livello superiore. Se non puoi raccogliere una specifica pianta, aumenta la tua competenza raccogliendo piante in aree di livello più basso.",
+      "ru_RU": "Чем лучше развит этот навык, тем больше различных видов растений вы можете собирать. Если вам не удается собрать какое-либо растение, потренируйтесь на простых травах, растущих в областях более низкого уровня.",
+      "ko_KR": "약초채집 숙련도가 올라갈수록 좀더 희귀한 약초를 채집할 수 있습니다. 특정한 약초을 채집할 수 없다면 그 전 단계의 쉬운 약초를 채집하여 숙련도를 올리십시오.",
+      "zh_TW": "高級的草藥學技能使你可以採集高級的草藥。如果你不能採集某種草藥，請先在較低等級的地區採集低等級草藥，以此提高你的草藥學技能。",
+      "zh_CN": "高级的草药学技能使你可以采集高级的草药。如果你不能采集某种草药，请先在较低等级的地区采集低等级草药，以此提高你的草药学技能。"
+    },
+    "type": {
+      "type": "PRIMARY",
+      "name": {
+        "en_US": "Primary",
+        "es_MX": "Principal",
+        "pt_BR": "Principal",
+        "de_DE": "Primär",
+        "en_GB": "Primary",
+        "es_ES": "Principal",
+        "fr_FR": "Principaux",
+        "it_IT": "Primario",
+        "ru_RU": "Основное",
+        "ko_KR": "주",
+        "zh_TW": "主要",
+        "zh_CN": "主要"
+      }
+    },
+    "media": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/media/profession/182?namespace=static-8.3.0_32861-us"
+      },
+      "id": 182
+    },
+    "skill_tiers": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/182/skill-tier/2549?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Kul Tiran Herbalism / Zandalari Herbalism",
+          "es_MX": "Herboristería kultirana / Herboristería zandalari",
+          "pt_BR": "Herborismo de Kul Tiraz / Herborismo de Zandalar",
+          "de_DE": "Kräuterkunde von Kul Tiras / Kräuterkunde von Zandalar",
+          "en_GB": "Kul Tiran Herbalism / Zandalari Herbalism",
+          "es_ES": "Herboristería de Kul Tiras / Herboristería Zandalari",
+          "fr_FR": "Herboristerie de Kul Tiras / Herboristerie de Zandalar",
+          "it_IT": "Erbalismo di Kul Tiras / Erbalismo di Zandalar",
+          "ru_RU": "Кул-тирасское травничество / Зандаларское травничество",
+          "ko_KR": "쿨 티란 약초채집 / 잔달라 약초채집",
+          "zh_TW": "庫爾提拉斯草藥學 / 贊達拉草藥學",
+          "zh_CN": "库尔提拉斯草药学 / 赞达拉草药学"
+        },
+        "id": 2549
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/182/skill-tier/2550?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Legion Herbalism",
+          "es_MX": "Herboristería de Legion",
+          "pt_BR": "Herborismo de Legion",
+          "de_DE": "Kräuterkunde der Verheerten Inseln",
+          "en_GB": "Legion Herbalism",
+          "es_ES": "Herboristería de Legion",
+          "fr_FR": "Herboristerie de Legion",
+          "it_IT": "Erbalismo di Legion",
+          "ru_RU": "Травничество Legion",
+          "ko_KR": "군단 약초채집",
+          "zh_TW": "軍團草藥學",
+          "zh_CN": "军团草药学"
+        },
+        "id": 2550
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/182/skill-tier/2551?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Draenor Herbalism",
+          "es_MX": "Herboristería de Draenor",
+          "pt_BR": "Herborismo de Draenor",
+          "de_DE": "Kräuterkunde von Draenor",
+          "en_GB": "Draenor Herbalism",
+          "es_ES": "Herboristería de Draenor",
+          "fr_FR": "Herboristerie de Draenor",
+          "it_IT": "Erbalismo di Draenor",
+          "ru_RU": "Травничество Дренора",
+          "ko_KR": "드레노어 약초채집",
+          "zh_TW": "德拉諾草藥學",
+          "zh_CN": "德拉诺草药学"
+        },
+        "id": 2551
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/182/skill-tier/2552?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Pandaria Herbalism",
+          "es_MX": "Herboristería de Pandaria",
+          "pt_BR": "Herborismo de Pandária",
+          "de_DE": "Kräuterkunde von Pandaria",
+          "en_GB": "Pandaria Herbalism",
+          "es_ES": "Herboristería de Pandaria",
+          "fr_FR": "Herboristerie de Pandarie",
+          "it_IT": "Erbalismo di Pandaria",
+          "ru_RU": "Травничество Пандарии",
+          "ko_KR": "판다리아 약초채집",
+          "zh_TW": "潘達利亞草藥學",
+          "zh_CN": "潘达利亚草药学"
+        },
+        "id": 2552
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/182/skill-tier/2553?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Cataclysm Herbalism",
+          "es_MX": "Herboristería de Cataclysm",
+          "pt_BR": "Herborismo de Cataclysm",
+          "de_DE": "Kräuterkunde des Kataklysmus",
+          "en_GB": "Cataclysm Herbalism",
+          "es_ES": "Herboristería de Cataclysm",
+          "fr_FR": "Herboristerie de Cataclysm",
+          "it_IT": "Erbalismo di Cataclysm",
+          "ru_RU": "Травничество времен Катаклизма",
+          "ko_KR": "대격변 약초채집",
+          "zh_TW": "大災變草藥學",
+          "zh_CN": "大地的裂变草药学"
+        },
+        "id": 2553
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/182/skill-tier/2554?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Northrend Herbalism",
+          "es_MX": "Herboristería de Rasganorte",
+          "pt_BR": "Herborismo de Nortúndria",
+          "de_DE": "Kräuterkunde von Nordend",
+          "en_GB": "Northrend Herbalism",
+          "es_ES": "Herboristería de Rasganorte",
+          "fr_FR": "Herboristerie du Norfendre",
+          "it_IT": "Erbalismo di Nordania",
+          "ru_RU": "Травничество Нордскола",
+          "ko_KR": "노스렌드 약초채집",
+          "zh_TW": "北裂境草藥學",
+          "zh_CN": "诺森德草药学"
+        },
+        "id": 2554
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/182/skill-tier/2555?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Outland Herbalism",
+          "es_MX": "Herboristería de Terrallende",
+          "pt_BR": "Herborismo de Terralém",
+          "de_DE": "Kräuterkunde der Scherbenwelt",
+          "en_GB": "Outland Herbalism",
+          "es_ES": "Herboristería de Terrallende",
+          "fr_FR": "Herboristerie de l’Outreterre",
+          "it_IT": "Erbalismo delle Terre Esterne",
+          "ru_RU": "Травничество Запределья",
+          "ko_KR": "아웃랜드 약초채집",
+          "zh_TW": "外域草藥學",
+          "zh_CN": "外域草药学"
+        },
+        "id": 2555
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/182/skill-tier/2556?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Herbalism",
+          "es_MX": "Herboristería",
+          "pt_BR": "Herborismo",
+          "de_DE": "Kräuterkunde",
+          "en_GB": "Herbalism",
+          "es_ES": "Herboristería",
+          "fr_FR": "Herboristerie",
+          "it_IT": "Erbalismo",
+          "ru_RU": "Травничество",
+          "ko_KR": "약초채집",
+          "zh_TW": "草藥學",
+          "zh_CN": "草药学"
+        },
+        "id": 2556
+      }
+    ]
+  },
+  {
+    "_links": {
+      "self": {
+        "href": "https://us.api.blizzard.com/data/wow/profession/185?namespace=static-8.3.0_32861-us"
+      }
+    },
+    "id": 185,
+    "name": {
+      "en_US": "Cooking",
+      "es_MX": "Cocina",
+      "pt_BR": "Culinária",
+      "de_DE": "Kochkunst",
+      "en_GB": "Cooking",
+      "es_ES": "Cocina",
+      "fr_FR": "Cuisine",
+      "it_IT": "Cucina",
+      "ru_RU": "Кулинария",
+      "ko_KR": "요리",
+      "zh_TW": "烹飪",
+      "zh_CN": "烹饪"
+    },
+    "description": {
+      "en_US": "Higher cooking skill allows you to learn higher level cooking recipes.  Recipes can be found on trainers around the world as well as from quests and as drops from monsters.",
+      "es_MX": "Con un nivel alto de habilidad en cocina, aprenderás recetas de nivel superior. Visita a los instructores dispersos por el mundo, completa misiones y derrota a los monstruos para conseguirlas.",
+      "pt_BR": "Um alto nível na perícia culinária permite aprender receitas de nível mais alto. As receitas podem ser aprendidas ou compradas dos instrutores de culinária espalhados pelo mundo, bem como saqueadas de monstros e obtidas como recompensa de missões.",
+      "de_DE": "Eine hohe Kochfertigkeit ermöglicht es Euch, höherstufigere Rezepte zu benutzen. Rezepte könnt Ihr bei Lehrern überall in der Welt erwerben. Tote Gegner hinterlassen manchmal Kochrezepte oder Ihr erhaltet sie als Questbelohnung.",
+      "en_GB": "Higher cooking skill allows you to learn higher level cooking recipes.  Recipes can be found on trainers around the world as well as from quests and as drops from monsters.",
+      "es_ES": "Con un nivel alto de habilidad en cocina, aprenderás recetas de nivel superior. Visita a los instructores dispersos por el mundo, completa misiones y derrota a los monstruos para conseguirlas.",
+      "fr_FR": "Un plus haut score dans la compétence cuisine vous permet d’apprendre des recettes plus difficiles. Les recettes de cuisine se trouvent dans le monde entier auprès de maîtres aussi bien qu’en récompense de quêtes ou qu’en butin de monstres.",
+      "it_IT": "Una maggiore competenza in Cucina permette di apprendere ricette di livello superiore. Le ricette possono essere acquistate da venditori o istruttori in giro per il mondo o essere ottenute attraverso missioni o uccidendo mostri.",
+      "ru_RU": "Чем лучше развит этот навык, тем более сложные кулинарные рецепты вы можете использовать. Рецепты можно найти у учителей, а также получить в качестве добычи или награды.",
+      "ko_KR": "요리 숙련도가 올라갈수록 고레벨의 조리법을 배울 수 있습니다. 조리법은 전문 요리사나 퀘스트를 통해 배우거나 몬스터에게서 얻을 수 있습니다.",
+      "zh_TW": "高級的烹飪技能使你可以學習高級的食譜。你可以在訓練師那裡學習新的食譜，也可以通過完成任務或殺死怪物獲得新的食譜。",
+      "zh_CN": "高级的烹饪技能使你可以学习高级的菜谱。你可以在训练师那里学习新的菜谱，也可以通过完成任务或杀死怪物获得新的菜谱。"
+    },
+    "type": {
+      "type": "SECONDARY",
+      "name": {
+        "en_US": "Secondary",
+        "es_MX": "Secundario",
+        "pt_BR": "Secundário",
+        "de_DE": "Sekundär",
+        "en_GB": "Secondary",
+        "es_ES": "Secundario",
+        "fr_FR": "Secondaires",
+        "it_IT": "Secondario",
+        "ru_RU": "Дополнительное",
+        "ko_KR": "보조",
+        "zh_TW": "次要",
+        "zh_CN": "次要"
+      }
+    },
+    "media": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/media/profession/185?namespace=static-8.3.0_32861-us"
+      },
+      "id": 185
+    },
+    "skill_tiers": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/185/skill-tier/2541?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Kul Tiran Cooking / Zandalari Cooking",
+          "es_MX": "Cocina kultirana / Cocina zandalari",
+          "pt_BR": "Culinária de Kul Tiraz / Culinária de Zandalar",
+          "de_DE": "Kochkunst von Kul Tiras / Kochkunst von Zandalar",
+          "en_GB": "Kul Tiran Cooking / Zandalari Cooking",
+          "es_ES": "Cocina de Kul Tiras / Cocina Zandalari",
+          "fr_FR": "Cuisine de Kul Tiras / Cuisine de Zandalar",
+          "it_IT": "Cucina di Kul Tiras / Cucina di Zandalar",
+          "ru_RU": "Кул-тирасская кулинария / Зандаларская кулинария",
+          "ko_KR": "쿨 티란 요리 / 잔달라 요리",
+          "zh_TW": "庫爾提拉斯烹飪 / 贊達拉烹飪",
+          "zh_CN": "库尔提拉斯烹饪 / 赞达拉烹饪"
+        },
+        "id": 2541
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/185/skill-tier/2542?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Legion Cooking",
+          "es_MX": "Cocina de Legion",
+          "pt_BR": "Culinária de Legion",
+          "de_DE": "Kochkunst der Verheerten Inseln",
+          "en_GB": "Legion Cooking",
+          "es_ES": "Cocina de Legion",
+          "fr_FR": "Cuisine de Legion",
+          "it_IT": "Cucina di Legion",
+          "ru_RU": "Кулинария Легиона",
+          "ko_KR": "군단 요리",
+          "zh_TW": "軍團烹飪",
+          "zh_CN": "军团烹饪"
+        },
+        "id": 2542
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/185/skill-tier/2543?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Draenor Cooking",
+          "es_MX": "Cocina de Draenor",
+          "pt_BR": "Culinária de Draenor",
+          "de_DE": "Kochkunst von Draenor",
+          "en_GB": "Draenor Cooking",
+          "es_ES": "Cocina de Draenor",
+          "fr_FR": "Cuisine de Draenor",
+          "it_IT": "Cucina di Draenor",
+          "ru_RU": "Кулинария Дренора",
+          "ko_KR": "드레노어 요리",
+          "zh_TW": "德拉諾烹飪",
+          "zh_CN": "德拉诺烹饪"
+        },
+        "id": 2543
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/185/skill-tier/2544?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Pandaria Cooking",
+          "es_MX": "Cocina de Pandaria",
+          "pt_BR": "Culinária de Pandária",
+          "de_DE": "Kochkunst von Pandaria",
+          "en_GB": "Pandaria Cooking",
+          "es_ES": "Cocina de Pandaria",
+          "fr_FR": "Cuisine de Pandarie",
+          "it_IT": "Cucina di Pandaria",
+          "ru_RU": "Кулинария Пандарии",
+          "ko_KR": "판다리아 요리",
+          "zh_TW": "潘達利亞烹飪",
+          "zh_CN": "潘达利亚烹饪"
+        },
+        "id": 2544
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/185/skill-tier/2545?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Cataclysm Cooking",
+          "es_MX": "Cocina de Cataclysm",
+          "pt_BR": "Culinária de Cataclysm",
+          "de_DE": "Kochkunst des Kataklysmus",
+          "en_GB": "Cataclysm Cooking",
+          "es_ES": "Cocina de Cataclysm",
+          "fr_FR": "Cuisine de Cataclysm",
+          "it_IT": "Cucina di Cataclysm",
+          "ru_RU": "Кулинария времен Катаклизма",
+          "ko_KR": "대격변 요리",
+          "zh_TW": "大災變烹飪",
+          "zh_CN": "大地的裂变烹饪"
+        },
+        "id": 2545
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/185/skill-tier/2546?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Northrend Cooking",
+          "es_MX": "Cocina de Rasganorte",
+          "pt_BR": "Culinária de Nortúndria",
+          "de_DE": "Kochkunst von Nordend",
+          "en_GB": "Northrend Cooking",
+          "es_ES": "Cocina de Rasganorte",
+          "fr_FR": "Cuisine du Norfendre",
+          "it_IT": "Cucina di Nordania",
+          "ru_RU": "Кулинария Нордскола",
+          "ko_KR": "노스렌드 요리",
+          "zh_TW": "北裂境烹飪",
+          "zh_CN": "诺森德烹饪"
+        },
+        "id": 2546
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/185/skill-tier/2547?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Outland Cooking",
+          "es_MX": "Cocina de Terrallende",
+          "pt_BR": "Culinária de Terralém",
+          "de_DE": "Kochkunst der Scherbenwelt",
+          "en_GB": "Outland Cooking",
+          "es_ES": "Cocina de Terrallende",
+          "fr_FR": "Cuisine de l’Outreterre",
+          "it_IT": "Cucina delle Terre Esterne",
+          "ru_RU": "Кулинария Запределья",
+          "ko_KR": "아웃랜드 요리",
+          "zh_TW": "外域烹飪",
+          "zh_CN": "外域烹饪"
+        },
+        "id": 2547
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/185/skill-tier/2548?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Cooking",
+          "es_MX": "Cocina",
+          "pt_BR": "Culinária",
+          "de_DE": "Kochkunst",
+          "en_GB": "Cooking",
+          "es_ES": "Cocina",
+          "fr_FR": "Cuisine",
+          "it_IT": "Cucina",
+          "ru_RU": "Кулинария",
+          "ko_KR": "요리",
+          "zh_TW": "烹飪",
+          "zh_CN": "烹饪"
+        },
+        "id": 2548
+      }
+    ]
+  },
+  {
+    "_links": {
+      "self": {
+        "href": "https://us.api.blizzard.com/data/wow/profession/186?namespace=static-8.3.0_32861-us"
+      }
+    },
+    "id": 186,
+    "name": {
+      "en_US": "Mining",
+      "es_MX": "Minería",
+      "pt_BR": "Mineração",
+      "de_DE": "Bergbau",
+      "en_GB": "Mining",
+      "es_ES": "Minería",
+      "fr_FR": "Minage",
+      "it_IT": "Estrazione",
+      "ru_RU": "Горное дело",
+      "ko_KR": "채광",
+      "zh_TW": "採礦",
+      "zh_CN": "采矿"
+    },
+    "description": {
+      "en_US": "Higher mining skill allows you to harvest more difficult minerals nodes around the world.  If you cannot harvest a specific mineral, then increase your skill by mining easier to mine minerals in lower level areas.",
+      "es_MX": "Con un alto nivel de habilidad en minería, podrás obtener minerales de vetas más complejas. Si no puedes obtener un mineral específico, intenta subir tu nivel de habilidad primero en zonas más fáciles.",
+      "pt_BR": "Um alto nível na perícia mineração permite coletar minérios mais raros pelo mundo. Se você não puder coletar um tipo específico de minério, deverá aumentar o seu nível de perícia coletando minérios menos raros em áreas de nível mais baixo.",
+      "de_DE": "Eine hohe Bergbaufertigkeit ermöglicht es Euch, schwierigere Erzvorkommen abzubauen. Wenn Ihr ein bestimmtes Erzvorkommen nicht abbauen könnt, steigert Eure Bergbaufertigkeit, indem Ihr in niedrigstufigeren Gebieten leichtere Erzvorkommen abbaut.",
+      "en_GB": "Higher mining skill allows you to harvest more difficult minerals nodes around the world.  If you cannot harvest a specific mineral, then increase your skill by mining easier to mine minerals in lower level areas.",
+      "es_ES": "Con un alto nivel de habilidad en minería, podrás obtener minerales de vetas más complejas. Si no puedes obtener un mineral específico, intenta subir tu nivel de habilidad primero en zonas más fáciles.",
+      "fr_FR": "Un plus haut score dans la compétence minage vous permet de récolter des minerais plus difficiles. Si vous ne pouvez pas récolter un minerai donné, augmentez votre score en récoltant des minerais plus accessibles dans des zones de niveau inférieur.",
+      "it_IT": "Una maggiore competenza in Estrazione permette di raccogliere minerali di livello superiore. Se non puoi picconare uno specifico deposito, aumenta la tua competenza picconando depositi in aree di livello più basso.",
+      "ru_RU": "Чем лучше развит этот навык, тем более сложные залежи вы можете разрабатывать. Если вам не удается добыть какой-либо минерал, потренируйтесь на простых месторождениях, доступных в областях более низкого уровня.",
+      "ko_KR": "채광 숙련도가 올라갈수록 좀더 희귀한 광석을 채집할 수 있습니다. 특정한 광맥을 채광할 수 없다면 그 전 단계의 쉬운 광맥을 채광하여 숙련도를 올리십시오.",
+      "zh_TW": "高級的採礦技能使你可以採集高級的礦石。如果你不能採集某種礦石，請先在較低等級的地區採集低等級礦石，以此提高你的採礦技能。",
+      "zh_CN": "高级的采矿技能使你可以采集高级的矿石。如果你不能采集某种矿石，请先在较低等级的地区采集低等级矿石，以此提高你的采矿技能。"
+    },
+    "type": {
+      "type": "PRIMARY",
+      "name": {
+        "en_US": "Primary",
+        "es_MX": "Principal",
+        "pt_BR": "Principal",
+        "de_DE": "Primär",
+        "en_GB": "Primary",
+        "es_ES": "Principal",
+        "fr_FR": "Principaux",
+        "it_IT": "Primario",
+        "ru_RU": "Основное",
+        "ko_KR": "주",
+        "zh_TW": "主要",
+        "zh_CN": "主要"
+      }
+    },
+    "media": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/media/profession/186?namespace=static-8.3.0_32861-us"
+      },
+      "id": 186
+    },
+    "skill_tiers": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/186/skill-tier/2565?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Kul Tiran Mining / Zandalari Mining",
+          "es_MX": "Minería kultirana / Minería zandalari",
+          "pt_BR": "Mineração de Kul Tiraz / Mineração de Zandalar",
+          "de_DE": "Bergbau von Kul Tiras / Bergbau von Zandalar",
+          "en_GB": "Kul Tiran Mining / Zandalari Mining",
+          "es_ES": "Minería de Kul Tiras / Minería Zandalari",
+          "fr_FR": "Minage de Kul Tiras / Minage de Zandalar",
+          "it_IT": "Estrazione di Kul Tiras / Estrazione di Zandalar",
+          "ru_RU": "Кул-тирасское горное дело / Зандаларское горное дело",
+          "ko_KR": "쿨 티란 채광 / 잔달라 채광",
+          "zh_TW": "庫爾提拉斯採礦 / 贊達拉採礦",
+          "zh_CN": "库尔提拉斯采矿 / 赞达拉采矿"
+        },
+        "id": 2565
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/186/skill-tier/2566?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Legion Mining",
+          "es_MX": "Minería de Legion",
+          "pt_BR": "Mineração de Legion",
+          "de_DE": "Bergbau der Verheerten Inseln",
+          "en_GB": "Legion Mining",
+          "es_ES": "Minería de Legion",
+          "fr_FR": "Minage de Legion",
+          "it_IT": "Estrazione di Legion",
+          "ru_RU": "Горное дело Legion",
+          "ko_KR": "군단 채광",
+          "zh_TW": "軍團採礦",
+          "zh_CN": "军团采矿"
+        },
+        "id": 2566
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/186/skill-tier/2567?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Draenor Mining",
+          "es_MX": "Minería de Draenor",
+          "pt_BR": "Mineração de Draenor",
+          "de_DE": "Bergbau von Draenor",
+          "en_GB": "Draenor Mining",
+          "es_ES": "Minería de Draenor",
+          "fr_FR": "Minage de Draenor",
+          "it_IT": "Estrazione di Draenor",
+          "ru_RU": "Горное дело Дренора",
+          "ko_KR": "드레노어 채광",
+          "zh_TW": "德拉諾採礦",
+          "zh_CN": "德拉诺采矿"
+        },
+        "id": 2567
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/186/skill-tier/2568?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Pandaria Mining",
+          "es_MX": "Minería de Pandaria",
+          "pt_BR": "Mineração de Pandária",
+          "de_DE": "Bergbau von Pandaria",
+          "en_GB": "Pandaria Mining",
+          "es_ES": "Minería de Pandaria",
+          "fr_FR": "Minage de Pandarie",
+          "it_IT": "Estrazione di Pandaria",
+          "ru_RU": "Горное дело Пандарии",
+          "ko_KR": "판다리아 채광",
+          "zh_TW": "潘達利亞採礦",
+          "zh_CN": "潘达利亚采矿"
+        },
+        "id": 2568
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/186/skill-tier/2569?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Cataclysm Mining",
+          "es_MX": "Minería de Cataclysm",
+          "pt_BR": "Mineração de Cataclysm",
+          "de_DE": "Bergbau des Kataklysmus",
+          "en_GB": "Cataclysm Mining",
+          "es_ES": "Minería de Cataclysm",
+          "fr_FR": "Minage de Cataclysm",
+          "it_IT": "Estrazione di Cataclysm",
+          "ru_RU": "Горное дело времен Катаклизма",
+          "ko_KR": "대격변 채광",
+          "zh_TW": "大災變採礦",
+          "zh_CN": "大地的裂变采矿"
+        },
+        "id": 2569
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/186/skill-tier/2570?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Northrend Mining",
+          "es_MX": "Minería de Rasganorte",
+          "pt_BR": "Mineração de Nortúndria",
+          "de_DE": "Bergbau von Nordend",
+          "en_GB": "Northrend Mining",
+          "es_ES": "Minería de Rasganorte",
+          "fr_FR": "Minage du Norfendre",
+          "it_IT": "Estrazione di Nordania",
+          "ru_RU": "Горное дело Нордскола",
+          "ko_KR": "노스렌드 채광",
+          "zh_TW": "北裂境採礦",
+          "zh_CN": "诺森德采矿"
+        },
+        "id": 2570
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/186/skill-tier/2571?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Outland Mining",
+          "es_MX": "Minería de Terrallende",
+          "pt_BR": "Mineração de Terralém",
+          "de_DE": "Bergbau der Scherbenwelt",
+          "en_GB": "Outland Mining",
+          "es_ES": "Minería de Terrallende",
+          "fr_FR": "Minage de l’Outreterre",
+          "it_IT": "Estrazione delle Terre Esterne",
+          "ru_RU": "Горное дело Запределья",
+          "ko_KR": "아웃랜드 채광",
+          "zh_TW": "外域採礦",
+          "zh_CN": "外域采矿"
+        },
+        "id": 2571
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/186/skill-tier/2572?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Mining",
+          "es_MX": "Minería",
+          "pt_BR": "Mineração",
+          "de_DE": "Bergbau",
+          "en_GB": "Mining",
+          "es_ES": "Minería",
+          "fr_FR": "Minage",
+          "it_IT": "Estrazione",
+          "ru_RU": "Горное дело",
+          "ko_KR": "채광",
+          "zh_TW": "採礦",
+          "zh_CN": "采矿"
+        },
+        "id": 2572
+      }
+    ]
+  },
+  {
+    "_links": {
+      "self": {
+        "href": "https://us.api.blizzard.com/data/wow/profession/197?namespace=static-8.3.0_32861-us"
+      }
+    },
+    "id": 197,
+    "name": {
+      "en_US": "Tailoring",
+      "es_MX": "Sastrería",
+      "pt_BR": "Alfaiataria",
+      "de_DE": "Schneiderei",
+      "en_GB": "Tailoring",
+      "es_ES": "Sastrería",
+      "fr_FR": "Couture",
+      "it_IT": "Sartoria",
+      "ru_RU": "Портняжное дело",
+      "ko_KR": "재봉술",
+      "zh_TW": "裁縫",
+      "zh_CN": "裁缝"
+    },
+    "description": {
+      "en_US": "Higher tailoring skill allows you to learn higher level tailoring patterns.  Tailoring patterns can be found on trainers around the world as well as from quests and monsters.",
+      "es_MX": "Con un nivel alto de habilidad en sastrería, podrás aprender patrones de nivel superior. Visita a los instructores dispersos por el mundo, completa misiones y derrota a los monstruos para conseguirlos.",
+      "pt_BR": "Um alto nível na perícia alfaiataria permite aprender moldes de nível mais alto. Os moldes podem ser aprendidos ou comprados dos instrutores de alfaiataria espalhados pelo mundo, bem como saqueados de monstros e obtidos como recompensa de missões.",
+      "de_DE": "Eine hohe Schneiderfertigkeit ermöglicht es Euch, höherstufigere Schnittmuster zu benutzen. Muster könnt Ihr bei Lehrern überall in der Welt erwerben. Tote Gegner hinterlassen manchmal Schnittmuster oder Ihr erhaltet sie als Questbelohnung.",
+      "en_GB": "Higher tailoring skill allows you to learn higher level tailoring patterns.  Tailoring patterns can be found on trainers around the world as well as from quests and monsters.",
+      "es_ES": "Con un nivel alto de habilidad en sastrería, podrás aprender patrones de nivel superior. Visita a los instructores dispersos por el mundo, completa misiones y derrota a los monstruos para conseguirlos.",
+      "fr_FR": "Un plus haut score dans la compétence couture vous permet d’apprendre des patrons plus difficiles. Les patrons de couture se trouvent dans le monde entier auprès de maîtres aussi bien qu’en récompense de quêtes ou qu’en butin de monstres.",
+      "it_IT": "Una maggiore competenza in Sartoria permette di apprendere modelli di livello superiore. I modelli possono essere acquistati da venditori o istruttori in giro per il mondo o essere ottenuti attraverso missioni o uccidendo mostri.",
+      "ru_RU": "Чем лучше развит этот навык, тем более сложные выкройки для ткани вы можете использовать. Выкройки можно найти у учителей, а также получить в качестве добычи или награды.",
+      "ko_KR": "재봉술 숙련도가 올라갈수록 고레벨의 재봉 도안을 배울 수 있습니다. 도안은 전문 재봉사나 퀘스트를 통해 배우거나 몬스터에게서 얻을 수 있습니다.",
+      "zh_TW": "高級的裁縫技能使你可以學習高級的裁縫圖樣。你可以在訓練師那裡學習新的圖樣，也可以通過完成任務或殺死怪物獲得新的圖樣。",
+      "zh_CN": "高级的裁缝技能使你可以学习高级的裁缝图样。你可以在训练师那里学习新的图样，也可以通过完成任务或杀死怪物获得新的图样。"
+    },
+    "type": {
+      "type": "PRIMARY",
+      "name": {
+        "en_US": "Primary",
+        "es_MX": "Principal",
+        "pt_BR": "Principal",
+        "de_DE": "Primär",
+        "en_GB": "Primary",
+        "es_ES": "Principal",
+        "fr_FR": "Principaux",
+        "it_IT": "Primario",
+        "ru_RU": "Основное",
+        "ko_KR": "주",
+        "zh_TW": "主要",
+        "zh_CN": "主要"
+      }
+    },
+    "media": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/media/profession/197?namespace=static-8.3.0_32861-us"
+      },
+      "id": 197
+    },
+    "skill_tiers": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/197/skill-tier/2533?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Kul Tiran Tailoring / Zandalari Tailoring",
+          "es_MX": "Sastrería kultirana / Sastrería zandalari",
+          "pt_BR": "Alfaiataria de Kul Tiraz / Alfaiataria de Zandalar",
+          "de_DE": "Schneiderei von Kul Tiras / Schneiderei von Zandalar",
+          "en_GB": "Kul Tiran Tailoring / Zandalari Tailoring",
+          "es_ES": "Sastrería de Kul Tiras / Sastrería Zandalari",
+          "fr_FR": "Couture de Kul Tiras / Couture de Zandalar",
+          "it_IT": "Sartoria di Kul Tiras / Sartoria di Zandalar",
+          "ru_RU": "Кул-тирасское портняжное дело / Зандаларское портняжное дело",
+          "ko_KR": "쿨 티란 재봉술 / 잔달라 재봉술",
+          "zh_TW": "庫爾提拉斯裁縫 / 贊達拉裁縫",
+          "zh_CN": "库尔提拉斯裁缝 / 赞达拉裁缝"
+        },
+        "id": 2533
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/197/skill-tier/2534?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Legion Tailoring",
+          "es_MX": "Sastrería de Legion",
+          "pt_BR": "Alfaiataria de Legion",
+          "de_DE": "Schneiderei der Verheerten Inseln",
+          "en_GB": "Legion Tailoring",
+          "es_ES": "Sastrería de Legion",
+          "fr_FR": "Couture de Legion",
+          "it_IT": "Sartoria di Legion",
+          "ru_RU": "Портняжное дело Legion",
+          "ko_KR": "군단 재봉술",
+          "zh_TW": "軍團裁縫",
+          "zh_CN": "军团裁缝"
+        },
+        "id": 2534
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/197/skill-tier/2535?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Draenor Tailoring",
+          "es_MX": "Sastrería de Draenor",
+          "pt_BR": "Alfaiataria de Draenor",
+          "de_DE": "Schneiderei von Draenor",
+          "en_GB": "Draenor Tailoring",
+          "es_ES": "Sastrería de Draenor",
+          "fr_FR": "Couture de Draenor",
+          "it_IT": "Sartoria di Draenor",
+          "ru_RU": "Портняжное дело Дренора",
+          "ko_KR": "드레노어 재봉술",
+          "zh_TW": "德拉諾裁縫",
+          "zh_CN": "德拉诺裁缝"
+        },
+        "id": 2535
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/197/skill-tier/2536?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Pandaria Tailoring",
+          "es_MX": "Sastrería de Pandaria",
+          "pt_BR": "Alfaiataria de Pandária",
+          "de_DE": "Schneiderei von Pandaria",
+          "en_GB": "Pandaria Tailoring",
+          "es_ES": "Sastrería de Pandaria",
+          "fr_FR": "Couture de Pandarie",
+          "it_IT": "Sartoria di Pandaria",
+          "ru_RU": "Портняжное дело Пандарии",
+          "ko_KR": "판다리아 재봉술",
+          "zh_TW": "潘達利亞裁縫",
+          "zh_CN": "潘达利亚裁缝"
+        },
+        "id": 2536
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/197/skill-tier/2537?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Cataclysm Tailoring",
+          "es_MX": "Sastrería de Cataclysm",
+          "pt_BR": "Alfaiataria de Cataclysm",
+          "de_DE": "Schneiderei des Kataklysmus",
+          "en_GB": "Cataclysm Tailoring",
+          "es_ES": "Sastrería de Cataclysm",
+          "fr_FR": "Couture de Cataclysm",
+          "it_IT": "Sartoria di Cataclysm",
+          "ru_RU": "Портняжное дело времен Катаклизма",
+          "ko_KR": "대격변 재봉술",
+          "zh_TW": "大災變裁縫",
+          "zh_CN": "大地的裂变裁缝"
+        },
+        "id": 2537
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/197/skill-tier/2538?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Northrend Tailoring",
+          "es_MX": "Sastrería de Rasganorte",
+          "pt_BR": "Alfaiataria da Nortúndria",
+          "de_DE": "Schneiderei von Nordend",
+          "en_GB": "Northrend Tailoring",
+          "es_ES": "Sastrería de Rasganorte",
+          "fr_FR": "Couture du Norfendre",
+          "it_IT": "Sartoria di Nordania",
+          "ru_RU": "Портняжное дело Нордскола",
+          "ko_KR": "노스렌드 재봉술",
+          "zh_TW": "北裂境裁縫",
+          "zh_CN": "诺森德裁缝"
+        },
+        "id": 2538
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/197/skill-tier/2539?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Outland Tailoring",
+          "es_MX": "Sastrería de Terrallende",
+          "pt_BR": "Alfaiataria de Terralém",
+          "de_DE": "Schneiderei der Scherbenwelt",
+          "en_GB": "Outland Tailoring",
+          "es_ES": "Sastrería de Terrallende",
+          "fr_FR": "Couture de l’Outreterre",
+          "it_IT": "Sartoria delle Terre Esterne",
+          "ru_RU": "Портняжное дело Запределья",
+          "ko_KR": "아웃랜드 재봉술",
+          "zh_TW": "外域裁縫",
+          "zh_CN": "外域裁缝"
+        },
+        "id": 2539
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/197/skill-tier/2540?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Tailoring",
+          "es_MX": "Sastrería",
+          "pt_BR": "Alfaiataria",
+          "de_DE": "Schneiderei",
+          "en_GB": "Tailoring",
+          "es_ES": "Sastrería",
+          "fr_FR": "Couture",
+          "it_IT": "Sartoria",
+          "ru_RU": "Портняжное дело",
+          "ko_KR": "재봉술",
+          "zh_TW": "裁縫",
+          "zh_CN": "裁缝"
+        },
+        "id": 2540
+      }
+    ]
+  },
+  {
+    "_links": {
+      "self": {
+        "href": "https://us.api.blizzard.com/data/wow/profession/202?namespace=static-8.3.0_32861-us"
+      }
+    },
+    "id": 202,
+    "name": {
+      "en_US": "Engineering",
+      "es_MX": "Ingeniería",
+      "pt_BR": "Engenharia",
+      "de_DE": "Ingenieurskunst",
+      "en_GB": "Engineering",
+      "es_ES": "Ingeniería",
+      "fr_FR": "Ingénierie",
+      "it_IT": "Ingegneria",
+      "ru_RU": "Инженерное дело",
+      "ko_KR": "기계공학",
+      "zh_TW": "工程學",
+      "zh_CN": "工程学"
+    },
+    "description": {
+      "en_US": "Higher engineering skill allows you to learn higher level engineering schematics.  Schematics can be found on trainers around the world as well as from quests and monsters.",
+      "es_MX": "Con un nivel alto de habilidad en ingeniería, podrás aprender esquemas de ingeniería de nivel superior. Visita a los instructores dispersos por el mundo, completa misiones y derrota a los monstruos para conseguirlos.",
+      "pt_BR": "Um alto nível na perícia engenharia permite aprender diagramas de nível mais alto. Os diagramas podem ser aprendidos ou comprados dos instrutores de engenharia espalhados pelo mundo, bem como saqueados de monstros e obtidos como recompensa de missões.",
+      "de_DE": "Eine hohe Ingenieursfertigkeit ermöglicht es Euch, höherstufigere Baupläne zu benutzen. Baupläne könnt Ihr bei Lehrern überall in der Welt erwerben. Tote Gegner hinterlassen manchmal Baupläne oder Ihr erhaltet sie als Questbelohnung.",
+      "en_GB": "Higher engineering skill allows you to learn higher level engineering schematics.  Schematics can be found on trainers around the world as well as from quests and monsters.",
+      "es_ES": "Con un nivel alto de habilidad en ingeniería, podrás aprender esquemas de ingeniería de nivel superior. Visita a los instructores dispersos por el mundo, completa misiones y derrota a los monstruos para conseguirlos.",
+      "fr_FR": "Un plus haut score dans la compétence ingénierie vous permet d’apprendre des schémas plus difficiles. Les schémas pour ingénieurs se trouvent dans le monde entier auprès de maîtres aussi bien qu’en récompense de quêtes ou qu’en butin de monstres.",
+      "it_IT": "Una maggiore competenza in Ingegneria permette di apprendere schemi di livello superiore. Gli schemi possono essere acquistati da venditori o istruttori in giro per il mondo o essere ottenuti attraverso missioni o uccidendo mostri.",
+      "ru_RU": "Чем лучше развит этот навык, тем более сложные инженерные чертежи вы можете использовать. Чертежи можно найти у учителей, а также получить в качестве добычи или награды.",
+      "ko_KR": "기계공학 숙련도가 올라갈수록 고레벨의 기계공학 설계도를 배울 수 있습니다. 설계도는 전문 기계공학자나 퀘스트를 통해 배우거나 몬스터에게서 얻을 수 있습니다.",
+      "zh_TW": "高級的工程學技能使你可以學習高級的工程學圖紙。你可以在訓練師那裡學習新的圖紙，也可以通過完成任務或殺死怪物獲得新的圖紙。",
+      "zh_CN": "高级的工程学技能使你可以学习高级的工程学图纸。你可以在训练师那里学习新的图纸，也可以通过完成任务或杀死怪物获得新的图纸。"
+    },
+    "type": {
+      "type": "PRIMARY",
+      "name": {
+        "en_US": "Primary",
+        "es_MX": "Principal",
+        "pt_BR": "Principal",
+        "de_DE": "Primär",
+        "en_GB": "Primary",
+        "es_ES": "Principal",
+        "fr_FR": "Principaux",
+        "it_IT": "Primario",
+        "ru_RU": "Основное",
+        "ko_KR": "주",
+        "zh_TW": "主要",
+        "zh_CN": "主要"
+      }
+    },
+    "media": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/media/profession/202?namespace=static-8.3.0_32861-us"
+      },
+      "id": 202
+    },
+    "skill_tiers": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/202/skill-tier/2499?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Kul Tiran Engineering / Zandalari Engineering",
+          "es_MX": "Ingeniería kultirana / Ingeniería zandalari",
+          "pt_BR": "Engenharia de Kul Tiraz / Engenharia de Zandalar",
+          "de_DE": "Ingenieurskunst von Kul Tiras / Ingenieurskunst von Zandalar",
+          "en_GB": "Kul Tiran Engineering / Zandalari Engineering",
+          "es_ES": "Ingeniería de Kul Tiras / Ingeniería Zandalari",
+          "fr_FR": "Ingénierie de Kul Tiras / Ingénierie de Zandalar",
+          "it_IT": "Ingegneria di Kul Tiras / Ingegneria di Zandalar",
+          "ru_RU": "Кул-тирасское инженерное дело / Зандаларское инженерное дело",
+          "ko_KR": "쿨 티란 기계공학 / 잔달라 기계공학",
+          "zh_TW": "庫爾提拉斯工程學 / 贊達拉工程學",
+          "zh_CN": "库尔提拉斯工程学 / 赞达拉工程学"
+        },
+        "id": 2499
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/202/skill-tier/2500?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Legion Engineering",
+          "es_MX": "Ingeniería de Legion",
+          "pt_BR": "Engenharia de Legion",
+          "de_DE": "Ingenieurskunst der Verheerten Inseln",
+          "en_GB": "Legion Engineering",
+          "es_ES": "Ingeniería de Legion",
+          "fr_FR": "Ingénierie de Legion",
+          "it_IT": "Ingegneria di Legion",
+          "ru_RU": "Инженерное дело Legion",
+          "ko_KR": "군단 기계공학",
+          "zh_TW": "軍團工程學",
+          "zh_CN": "军团工程学"
+        },
+        "id": 2500
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/202/skill-tier/2501?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Draenor Engineering",
+          "es_MX": "Ingeniería de Draenor",
+          "pt_BR": "Engenharia de Draenor",
+          "de_DE": "Ingenieurskunst von Draenor",
+          "en_GB": "Draenor Engineering",
+          "es_ES": "Ingeniería de Draenor",
+          "fr_FR": "Ingénierie de Draenor",
+          "it_IT": "Ingegneria di Draenor",
+          "ru_RU": "Инженерное дело Дренора",
+          "ko_KR": "드레노어 기계공학",
+          "zh_TW": "德拉諾工程學",
+          "zh_CN": "德拉诺工程学"
+        },
+        "id": 2501
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/202/skill-tier/2502?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Pandaria Engineering",
+          "es_MX": "Ingeniería de Pandaria",
+          "pt_BR": "Engenharia de Pandária",
+          "de_DE": "Ingenieurskunst von Pandaria",
+          "en_GB": "Pandaria Engineering",
+          "es_ES": "Ingeniería de Pandaria",
+          "fr_FR": "Ingénierie de Pandarie",
+          "it_IT": "Ingegneria di Pandaria",
+          "ru_RU": "Инженерное дело Пандарии",
+          "ko_KR": "판다리아 기계공학",
+          "zh_TW": "潘達利亞工程學",
+          "zh_CN": "潘达利亚工程学"
+        },
+        "id": 2502
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/202/skill-tier/2503?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Cataclysm Engineering",
+          "es_MX": "Ingeniería de Cataclysm",
+          "pt_BR": "Engenharia de Cataclysm",
+          "de_DE": "Ingenieurskunst des Kataklysmus",
+          "en_GB": "Cataclysm Engineering",
+          "es_ES": "Ingeniería de Cataclsym",
+          "fr_FR": "Ingénierie de Cataclysm",
+          "it_IT": "Ingegneria di Cataclysm",
+          "ru_RU": "Инженерное дело времен Катаклизма",
+          "ko_KR": "대격변 기계공학",
+          "zh_TW": "大災變工程學",
+          "zh_CN": "大地的裂变工程学"
+        },
+        "id": 2503
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/202/skill-tier/2504?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Northrend Engineering",
+          "es_MX": "Ingeniería de Rasganorte",
+          "pt_BR": "Engenharia de Nortúndria",
+          "de_DE": "Ingenieurskunst von Nordend",
+          "en_GB": "Northrend Engineering",
+          "es_ES": "Ingeniería de Rasganorte",
+          "fr_FR": "Ingénierie du Norfendre",
+          "it_IT": "Ingegneria di Nordania",
+          "ru_RU": "Инженерное дело Нордскола",
+          "ko_KR": "노스렌드 기계공학",
+          "zh_TW": "北裂境工程學",
+          "zh_CN": "诺森德工程学"
+        },
+        "id": 2504
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/202/skill-tier/2505?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Outland Engineering",
+          "es_MX": "Ingeniería de Terrallende",
+          "pt_BR": "Engenharia de Terralém",
+          "de_DE": "Ingenieurskunst der Scherbenwelt",
+          "en_GB": "Outland Engineering",
+          "es_ES": "Ingeniería de Terrallende",
+          "fr_FR": "Ingénierie de l’Outreterre",
+          "it_IT": "Ingegneria delle Terre Esterne",
+          "ru_RU": "Инженерное дело Запределья",
+          "ko_KR": "아웃랜드 기계공학",
+          "zh_TW": "外域工程學",
+          "zh_CN": "外域工程学"
+        },
+        "id": 2505
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/202/skill-tier/2506?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Engineering",
+          "es_MX": "Ingeniería",
+          "pt_BR": "Engenharia",
+          "de_DE": "Ingenieurskunst",
+          "en_GB": "Engineering",
+          "es_ES": "Ingeniería",
+          "fr_FR": "Ingénierie",
+          "it_IT": "Ingegneria",
+          "ru_RU": "Инженерное дело",
+          "ko_KR": "기계공학",
+          "zh_TW": "工程學",
+          "zh_CN": "工程学"
+        },
+        "id": 2506
+      }
+    ]
+  },
+  {
+    "_links": {
+      "self": {
+        "href": "https://us.api.blizzard.com/data/wow/profession/333?namespace=static-8.3.0_32861-us"
+      }
+    },
+    "id": 333,
+    "name": {
+      "en_US": "Enchanting",
+      "es_MX": "Encantamiento",
+      "pt_BR": "Encantamento",
+      "de_DE": "Verzauberkunst",
+      "en_GB": "Enchanting",
+      "es_ES": "Encantamiento",
+      "fr_FR": "Enchantement",
+      "it_IT": "Incantamento",
+      "ru_RU": "Наложение чар",
+      "ko_KR": "마법부여",
+      "zh_TW": "附魔",
+      "zh_CN": "附魔"
+    },
+    "description": {
+      "en_US": "Higher enchanting skill allows you to learn more powerful formulae.  Formulae can be found on trainers around the world as well as from quests and monsters.",
+      "es_MX": "Con un alto nivel de habilidad en encantamiento, podrás aprender formulas mucho más poderosas. Visita a los instructores dispersos por el mundo, completa misiones y derrota a los monstruos para conseguirlas.",
+      "pt_BR": "Um alto nível na perícia encantamento permite aprender fórmulas de nível mais alto. As fórmulas podem ser aprendidas ou compradas dos instrutores de encantamento espalhados pelo mundo, bem como saqueadas de monstros e obtidas como recompensa de missões.",
+      "de_DE": "Eine hohe Verzauberfertigkeit ermöglicht es Euch, mächtigere Formeln zu benutzen. Verzauberungsformeln könnt Ihr bei Lehrern überall in der Welt erwerben und auch bei toten Gegnern und beim Questen finden.",
+      "en_GB": "Higher enchanting skill allows you to learn more powerful formulae.  Formulae can be found on trainers around the world as well as from quests and monsters.",
+      "es_ES": "Con un alto nivel de habilidad en encantamiento, podrás aprender formulas mucho más poderosas. Visita a los instructores dispersos por el mundo, completa misiones y derrota a los monstruos para conseguirlas.",
+      "fr_FR": "Un plus haut score dans la compétence enchantement vous permet d'apprendre des formules plus puissantes. Ces formules peuvent être trouvées auprès de maîtres un peu partout dans le monde, sur des monstres ou en récompense de quêtes.",
+      "it_IT": "Una maggiore competenza in Incantamento permette di apprendere formule di livello superiore. Le formule possono essere acquistate da venditori o istruttori in giro per il mondo o essere ottenute attraverso missioni o uccidendo mostri.",
+      "ru_RU": "Чем лучше развит этот навык, тем более сложные формулы вы можете использовать. Формулы можно найти у учителей, а также получить в качестве добычи или награды.",
+      "ko_KR": "마법부여 숙련도가 올라갈수록 더 강력한 주문식을 배울 수 있습니다. 주문식은 전문 마법부여사나 퀘스트를 통해 배우거나 몬스터에게서 얻을 수 있습니다.",
+      "zh_TW": "高級的附魔技能使你可以學習高級的附魔公式。你可以在訓練師那裡學習新的公式，也可以通過完成任務或殺死怪物獲得新的公式。",
+      "zh_CN": "高级的附魔技能使你可以学习高级的附魔公式。你可以在训练师那里学习新的公式，也可以通过完成任务或杀死怪物获得新的公式。"
+    },
+    "type": {
+      "type": "PRIMARY",
+      "name": {
+        "en_US": "Primary",
+        "es_MX": "Principal",
+        "pt_BR": "Principal",
+        "de_DE": "Primär",
+        "en_GB": "Primary",
+        "es_ES": "Principal",
+        "fr_FR": "Principaux",
+        "it_IT": "Primario",
+        "ru_RU": "Основное",
+        "ko_KR": "주",
+        "zh_TW": "主要",
+        "zh_CN": "主要"
+      }
+    },
+    "media": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/media/profession/333?namespace=static-8.3.0_32861-us"
+      },
+      "id": 333
+    },
+    "skill_tiers": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/333/skill-tier/2486?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Kul Tiran Enchanting / Zandalari Enchanting",
+          "es_MX": "Encantamiento kultirano / Encantamiento zandalari",
+          "pt_BR": "Encantamento de Kul Tiraz / Encantamento de Zandalar",
+          "de_DE": "Verzauberkunst von Kul Tiras / Verzauberkunst von Zandalar",
+          "en_GB": "Kul Tiran Enchanting / Zandalari Enchanting",
+          "es_ES": "Encantamiento de Kul Tiras / Encantamiento Zandalari",
+          "fr_FR": "Enchantement de Kul Tiras / Enchantement de Zandalar",
+          "it_IT": "Incantamento di Kul Tiras / Incantamento di Zandalar",
+          "ru_RU": "Кул-тирасское наложение чар / Зандаларское наложение чар",
+          "ko_KR": "쿨 티란 마법부여 / 잔달라 마법부여",
+          "zh_TW": "庫爾提拉斯附魔 / 贊達拉附魔",
+          "zh_CN": "库尔提拉斯附魔 / 赞达拉附魔"
+        },
+        "id": 2486
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/333/skill-tier/2487?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Legion Enchanting",
+          "es_MX": "Encantamiento de Legion",
+          "pt_BR": "Encantamento de Legion",
+          "de_DE": "Verzauberkunst der Verheerten Inseln",
+          "en_GB": "Legion Enchanting",
+          "es_ES": "Encantamiento de Legion",
+          "fr_FR": "Enchantement de Legion",
+          "it_IT": "Incantamento di Legion",
+          "ru_RU": "Наложение чар Legion",
+          "ko_KR": "군단 마법부여",
+          "zh_TW": "軍團附魔",
+          "zh_CN": "军团附魔"
+        },
+        "id": 2487
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/333/skill-tier/2488?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Draenor Enchanting",
+          "es_MX": "Encantamiento de Draenor",
+          "pt_BR": "Encantamento de Draenor",
+          "de_DE": "Verzauberkunst von Draenor",
+          "en_GB": "Draenor Enchanting",
+          "es_ES": "Encantamiento de Draenor",
+          "fr_FR": "Enchantement de Draenor",
+          "it_IT": "Incantamento di Draenor",
+          "ru_RU": "Наложение чар Дренора",
+          "ko_KR": "드레노어 마법부여",
+          "zh_TW": "德拉諾附魔",
+          "zh_CN": "德拉诺附魔"
+        },
+        "id": 2488
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/333/skill-tier/2489?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Pandaria Enchanting",
+          "es_MX": "Encantamiento de Pandaria",
+          "pt_BR": "Encantamento de Pandária",
+          "de_DE": "Verzauberkunst von Pandaria",
+          "en_GB": "Pandaria Enchanting",
+          "es_ES": "Encantamiento de Pandaria",
+          "fr_FR": "Enchantement de Pandarie",
+          "it_IT": "Incantamento di Pandaria",
+          "ru_RU": "Наложение чар Пандарии",
+          "ko_KR": "판다리아 마법부여",
+          "zh_TW": "潘達利亞附魔",
+          "zh_CN": "潘达利亚附魔"
+        },
+        "id": 2489
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/333/skill-tier/2491?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Cataclysm Enchanting",
+          "es_MX": "Encantamiento de Cataclysm",
+          "pt_BR": "Encantamento de Cataclysm",
+          "de_DE": "Verzauberkunst des Kataklysmus",
+          "en_GB": "Cataclysm Enchanting",
+          "es_ES": "Encantamiento de Cataclysm",
+          "fr_FR": "Enchantement de Cataclysm",
+          "it_IT": "Incantamento di Cataclysm",
+          "ru_RU": "Наложение чар времен Катаклизма",
+          "ko_KR": "대격변 마법부여",
+          "zh_TW": "大災變附魔",
+          "zh_CN": "大地的裂变附魔"
+        },
+        "id": 2491
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/333/skill-tier/2492?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Northrend Enchanting",
+          "es_MX": "Encantamiento de Rasganorte",
+          "pt_BR": "Encantamento de Nortúndria",
+          "de_DE": "Verzauberkunst von Nordend",
+          "en_GB": "Northrend Enchanting",
+          "es_ES": "Encantamiento de Rasganorte",
+          "fr_FR": "Enchantement du Norfendre",
+          "it_IT": "Incantamento di Nordania",
+          "ru_RU": "Наложение чар Нордскола",
+          "ko_KR": "노스렌드 마법부여",
+          "zh_TW": "北裂境附魔",
+          "zh_CN": "诺森德附魔"
+        },
+        "id": 2492
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/333/skill-tier/2493?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Outland Enchanting",
+          "es_MX": "Encantamiento de Terrallende",
+          "pt_BR": "Encantamento de Terralém",
+          "de_DE": "Verzauberkunst der Scherbenwelt",
+          "en_GB": "Outland Enchanting",
+          "es_ES": "Encantamiento de Terrallende",
+          "fr_FR": "Enchantement de l’Outreterre",
+          "it_IT": "Incantamento delle Terre Esterne",
+          "ru_RU": "Наложение чар Запределья",
+          "ko_KR": "아웃랜드 마법부여",
+          "zh_TW": "外域附魔",
+          "zh_CN": "外域附魔"
+        },
+        "id": 2493
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/333/skill-tier/2494?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Enchanting",
+          "es_MX": "Encantamiento",
+          "pt_BR": "Encantamento",
+          "de_DE": "Verzauberkunst",
+          "en_GB": "Enchanting",
+          "es_ES": "Encantamiento",
+          "fr_FR": "Enchantement",
+          "it_IT": "Incantamento",
+          "ru_RU": "Наложение чар",
+          "ko_KR": "마법부여",
+          "zh_TW": "附魔",
+          "zh_CN": "附魔"
+        },
+        "id": 2494
+      }
+    ]
+  },
+  {
+    "_links": {
+      "self": {
+        "href": "https://us.api.blizzard.com/data/wow/profession/356?namespace=static-8.3.0_32861-us"
+      }
+    },
+    "id": 356,
+    "name": {
+      "en_US": "Fishing",
+      "es_MX": "Pesca",
+      "pt_BR": "Pesca",
+      "de_DE": "Angeln",
+      "en_GB": "Fishing",
+      "es_ES": "Pesca",
+      "fr_FR": "Pêche",
+      "it_IT": "Pesca",
+      "ru_RU": "Рыбная ловля",
+      "ko_KR": "낚시",
+      "zh_TW": "釣魚",
+      "zh_CN": "钓鱼"
+    },
+    "description": {
+      "en_US": "Higher fishing skill increases your chance of catching fish in bodies of water around the world.  If you are having trouble catching fish in a given area, move to a lower level area or purchase a fishing lure and try again.",
+      "es_MX": "Con un nivel alto de habilidad en pesca aumentará la probabilidad de que pesques algo en las aguas del mundo. Si te cuesta mucho pescar, ve a pescar a otra área de nivel inferior o compra un cebo.",
+      "pt_BR": "Um alto nível na perícia pesca aumenta a chance de pegar peixes pelo mundo. Se você tiver problemas para pescar em determinada área, vá para uma área de nível mais baixo ou use uma isca de pesca e tente novamente.",
+      "de_DE": "Eine hohe Angelfertigkeit steigert Eure Chance, Fische in einem Gewässer zu fangen. Wenn Ihr in einem bestimmten Gebiet Probleme habt, Fische zu angeln, versucht es in einem Gebiet mit einer niedrigeren Stufe oder benutzt einen Fischköder.",
+      "en_GB": "Higher fishing skill increases your chance of catching fish in bodies of water around the world.  If you are having trouble catching fish in a given area, move to a lower level area or purchase a fishing lure and try again.",
+      "es_ES": "Con un nivel alto de habilidad en pesca aumentará la probabilidad de que pesques algo en las aguas del mundo. Si te cuesta mucho pescar, ve a pescar a otra área de nivel inferior o compra un cebo.",
+      "fr_FR": "Un plus haut score dans la compétence pêche augmente vos chances d'attraper des poissons dans le monde. Si vous n'arrivez pas à pêcher dans une zone spécifique, allez dans des zones de plus bas niveau ou utilisez des appâts.",
+      "it_IT": "Una maggiore competenza in Pesca aumenta la probabilità di catturare pesci nelle pozze d'acqua in giro per il mondo. Se non riesci a catturare pesci in una specifica area, prova a spostarti in aree di livello più basso o aggiungi un'esca.",
+      "ru_RU": "Чем лучше развит этот навык, тем больше вероятность поимки рыбы в любом из водоемов. Если вам не везет на рыбалке, перейдите в область более низкого уровня или купите приманку.",
+      "ko_KR": "낚시 숙련도가 올라갈수록 물고기를 낚을 확률이 증가합니다. 만약 해당 지역에서 물고기를 낚을 수 없다면 좀 더 낮은 레벨의 장소로 이동하거나 미끼를 사용해 보십시오.",
+      "zh_TW": "高級的釣魚技能使你可以釣到高級的魚。如果你在某個區域釣不到魚，請到低等級區域去釣魚，或者購買魚餌再來嘗試。",
+      "zh_CN": "高级的钓鱼技能使你可以钓到高级的鱼。如果你在某个区域钓不到鱼，请到低等级区域去钓鱼，或者购买鱼饵再来尝试。"
+    },
+    "type": {
+      "type": "SECONDARY",
+      "name": {
+        "en_US": "Secondary",
+        "es_MX": "Secundario",
+        "pt_BR": "Secundário",
+        "de_DE": "Sekundär",
+        "en_GB": "Secondary",
+        "es_ES": "Secundario",
+        "fr_FR": "Secondaires",
+        "it_IT": "Secondario",
+        "ru_RU": "Дополнительное",
+        "ko_KR": "보조",
+        "zh_TW": "次要",
+        "zh_CN": "次要"
+      }
+    },
+    "media": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/media/profession/356?namespace=static-8.3.0_32861-us"
+      },
+      "id": 356
+    },
+    "skill_tiers": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/356/skill-tier/2585?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Kul Tiran Fishing / Zandalari Fishing",
+          "es_MX": "Pesca kultirana / Pesca zandalari",
+          "pt_BR": "Pesca de Kul Tiraz / Pesca dos Zandalari",
+          "de_DE": "Angeln von Kul Tiras / Angeln von Zandalar",
+          "en_GB": "Kul Tiran Fishing / Zandalari Fishing",
+          "es_ES": "Pesca de Kul Tiras / Pesca Zandalari",
+          "fr_FR": "Pêche de Kul Tiras / Pêche de Zandalar",
+          "it_IT": "Pesca di Kul Tiras / Pesca di Zandalar",
+          "ru_RU": "Кул-тирасская рыбная ловля / Зандаларская рыбная ловля",
+          "ko_KR": "쿨 티란 낚시 / 잔달라 낚시",
+          "zh_TW": "庫爾提拉斯釣魚 / 贊達拉釣魚",
+          "zh_CN": "库尔提拉斯钓鱼 / 赞达拉钓鱼"
+        },
+        "id": 2585
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/356/skill-tier/2586?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Legion Fishing",
+          "es_MX": "Pesca de Legion",
+          "pt_BR": "Pesca da Legião",
+          "de_DE": "Angeln der Verheerten Inseln",
+          "en_GB": "Legion Fishing",
+          "es_ES": "Pesca de Legion",
+          "fr_FR": "Pêche de Legion",
+          "it_IT": "Pesca di Legion",
+          "ru_RU": "Рыбная ловля Legion",
+          "ko_KR": "군단 낚시",
+          "zh_TW": "軍團釣魚",
+          "zh_CN": "军团钓鱼"
+        },
+        "id": 2586
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/356/skill-tier/2587?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Draenor Fishing",
+          "es_MX": "Pesca de Draenor",
+          "pt_BR": "Pesca de Draenor",
+          "de_DE": "Angeln von Draenor",
+          "en_GB": "Draenor Fishing",
+          "es_ES": "Pesca de Draenor",
+          "fr_FR": "Pêche de Draenor",
+          "it_IT": "Pesca di Draenor",
+          "ru_RU": "Рыбная ловля Дренора",
+          "ko_KR": "드레노어 낚시",
+          "zh_TW": "德拉諾釣魚",
+          "zh_CN": "德拉诺钓鱼"
+        },
+        "id": 2587
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/356/skill-tier/2588?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Pandaria Fishing",
+          "es_MX": "Pesca de Pandaria",
+          "pt_BR": "Pesca de Pandária",
+          "de_DE": "Angeln von Pandaria",
+          "en_GB": "Pandaria Fishing",
+          "es_ES": "Pesca de Pandaria",
+          "fr_FR": "Pêche de Pandarie",
+          "it_IT": "Pesca di Pandaria",
+          "ru_RU": "Рыбная ловля Пандарии",
+          "ko_KR": "판다리아 낚시",
+          "zh_TW": "潘達利亞釣魚",
+          "zh_CN": "潘达利亚钓鱼"
+        },
+        "id": 2588
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/356/skill-tier/2589?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Cataclysm Fishing",
+          "es_MX": "Pesca de Cataclysm",
+          "pt_BR": "Pesca de Cataclysm",
+          "de_DE": "Angeln des Kataklysmus",
+          "en_GB": "Cataclysm Fishing",
+          "es_ES": "Pesca de Cataclysm",
+          "fr_FR": "Pêche de Cataclysm",
+          "it_IT": "Pesca di Cataclysm",
+          "ru_RU": "Рыбная ловля времен Катаклизма",
+          "ko_KR": "대격변 낚시",
+          "zh_TW": "大災變釣魚",
+          "zh_CN": "大地的裂变钓鱼"
+        },
+        "id": 2589
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/356/skill-tier/2590?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Northrend Fishing",
+          "es_MX": "Pesca de Rasganorte",
+          "pt_BR": "Pesca de Nortúndria",
+          "de_DE": "Angeln von Nordend",
+          "en_GB": "Northrend Fishing",
+          "es_ES": "Pesca de Rasganorte",
+          "fr_FR": "Pêche du Norfendre",
+          "it_IT": "Pesca di Nordania",
+          "ru_RU": "Рыбная ловля Нордскола",
+          "ko_KR": "노스렌드 낚시",
+          "zh_TW": "北裂境釣魚",
+          "zh_CN": "诺森德钓鱼"
+        },
+        "id": 2590
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/356/skill-tier/2591?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Outland Fishing",
+          "es_MX": "Pesca de Terrallende",
+          "pt_BR": "Pesca de Terralém",
+          "de_DE": "Angeln der Scherbenwelt",
+          "en_GB": "Outland Fishing",
+          "es_ES": "Pesca de Terrallende",
+          "fr_FR": "Pêche de l’Outreterre",
+          "it_IT": "Pesca delle Terre Esterne",
+          "ru_RU": "Рыбная ловля в Запределье",
+          "ko_KR": "아웃랜드 낚시",
+          "zh_TW": "外域釣魚",
+          "zh_CN": "外域钓鱼"
+        },
+        "id": 2591
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/356/skill-tier/2592?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Fishing",
+          "es_MX": "Pesca",
+          "pt_BR": "Pesca",
+          "de_DE": "Angeln",
+          "en_GB": "Fishing",
+          "es_ES": "Pesca",
+          "fr_FR": "Pêche",
+          "it_IT": "Pesca",
+          "ru_RU": "Рыбная ловля",
+          "ko_KR": "낚시",
+          "zh_TW": "釣魚",
+          "zh_CN": "钓鱼"
+        },
+        "id": 2592
+      }
+    ]
+  },
+  {
+    "_links": {
+      "self": {
+        "href": "https://us.api.blizzard.com/data/wow/profession/393?namespace=static-8.3.0_32861-us"
+      }
+    },
+    "id": 393,
+    "name": {
+      "en_US": "Skinning",
+      "es_MX": "Desuello",
+      "pt_BR": "Esfolamento",
+      "de_DE": "Kürschnerei",
+      "en_GB": "Skinning",
+      "es_ES": "Desuello",
+      "fr_FR": "Dépeçage",
+      "it_IT": "Scuoiatura",
+      "ru_RU": "Снятие шкур",
+      "ko_KR": "무두질",
+      "zh_TW": "剝皮",
+      "zh_CN": "剥皮"
+    },
+    "description": {
+      "en_US": "Higher skinning skill allows you to skin hides from higher level monsters around the world.",
+      "es_MX": "Con un nivel alto de habilidad en desuello podrás desollar monstruos de nivel superior en todo el mundo.",
+      "pt_BR": "Uma perícia de esfolamento mais avançada permite a você esfolar monstros de níveis mais altos pelo mundo.",
+      "de_DE": "Eine hohe Kürschnerfertigkeit ermöglicht es Euch, höherstufigere Monster zu häuten.",
+      "en_GB": "Higher skinning skill allows you to skin hides from higher level monsters around the world.",
+      "es_ES": "Con un nivel alto de habilidad en desuello podrás desollar pellejos de monstruos de nivel superior por todo el mundo.",
+      "fr_FR": "Un plus haut score dans la compétence dépeçage vous permet de dépecer des monstres de plus haut niveau un peu partout dans le monde.",
+      "it_IT": "Una maggiore competenza in Scuoiatura permette di raccogliere pelli da mostri di livello superiore.",
+      "ru_RU": "Чем лучше развит ваш навык снятия шкур, тем выше максимальный уровень монстров, с трупов которых вы можете снимать шкуры.",
+      "ko_KR": "무두질 숙련도가 올라갈수록 고레벨 몬스터의 가죽을 채집할 수 있습니다.",
+      "zh_TW": "高級的剝皮技能使你可以從高級怪物身上剝取毛皮。",
+      "zh_CN": "高级的剥皮技能使你可以从高等级怪物身上剥取毛皮。"
+    },
+    "type": {
+      "type": "PRIMARY",
+      "name": {
+        "en_US": "Primary",
+        "es_MX": "Principal",
+        "pt_BR": "Principal",
+        "de_DE": "Primär",
+        "en_GB": "Primary",
+        "es_ES": "Principal",
+        "fr_FR": "Principaux",
+        "it_IT": "Primario",
+        "ru_RU": "Основное",
+        "ko_KR": "주",
+        "zh_TW": "主要",
+        "zh_CN": "主要"
+      }
+    },
+    "media": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/media/profession/393?namespace=static-8.3.0_32861-us"
+      },
+      "id": 393
+    },
+    "skill_tiers": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/393/skill-tier/2557?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Kul Tiran Skinning / Zandalari Skinning",
+          "es_MX": "Desuello kultirano / Desuello zandalari",
+          "pt_BR": "Esfolamento de Kul Tiraz / Esfolamento de Zandalar",
+          "de_DE": "Kürschnerei von Kul Tiras / Kürschnerei von Zandalar",
+          "en_GB": "Kul Tiran Skinning / Zandalari Skinning",
+          "es_ES": "Desuello de Kul Tiras / Desuello Zandalari",
+          "fr_FR": "Dépeçage de Kul Tiras / Dépeçage de Zandalar",
+          "it_IT": "Scuoiatura di Kul Tiras / Scuoiatura di Zandalar",
+          "ru_RU": "Кул-тирасское снятие шкур / Зандаларское снятие шкур",
+          "ko_KR": "쿨 티란 무두질 / 잔달라 무두질",
+          "zh_TW": "庫爾提拉斯剝皮 / 贊達拉剝皮",
+          "zh_CN": "库尔提拉斯剥皮 / 赞达拉剥皮"
+        },
+        "id": 2557
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/393/skill-tier/2558?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Legion Skinning",
+          "es_MX": "Desuello de Legion",
+          "pt_BR": "Esfolamento de Legion",
+          "de_DE": "Kürschnerei der Verheerten Inseln",
+          "en_GB": "Legion Skinning",
+          "es_ES": "Desuello de Legion",
+          "fr_FR": "Dépeçage de Legion",
+          "it_IT": "Scuoiatura di Legion",
+          "ru_RU": "Снятие шкур Legion",
+          "ko_KR": "군단 무두질",
+          "zh_TW": "軍團剝皮",
+          "zh_CN": "军团剥皮"
+        },
+        "id": 2558
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/393/skill-tier/2559?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Draenor Skinning",
+          "es_MX": "Desuello de Draenor",
+          "pt_BR": "Esfolamento de Draenor",
+          "de_DE": "Kürschnerei von Draenor",
+          "en_GB": "Draenor Skinning",
+          "es_ES": "Desuello de Draenor",
+          "fr_FR": "Dépeçage de Draenor",
+          "it_IT": "Scuoiatura di Draenor",
+          "ru_RU": "Снятие шкур на Дреноре",
+          "ko_KR": "드레노어 무두질",
+          "zh_TW": "德拉諾剝皮",
+          "zh_CN": "德拉诺剥皮"
+        },
+        "id": 2559
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/393/skill-tier/2560?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Pandaria Skinning",
+          "es_MX": "Desuello de Pandaria",
+          "pt_BR": "Esfolamento de Pandária",
+          "de_DE": "Kürschnerei von Pandaria",
+          "en_GB": "Pandaria Skinning",
+          "es_ES": "Desuello de Pandaria",
+          "fr_FR": "Dépeçage de Pandarie",
+          "it_IT": "Scuoiatura di Pandaria",
+          "ru_RU": "Снятие шкур в Пандарии",
+          "ko_KR": "판다리아 무두질",
+          "zh_TW": "潘達利亞剝皮",
+          "zh_CN": "潘达利亚剥皮"
+        },
+        "id": 2560
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/393/skill-tier/2561?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Cataclysm Skinning",
+          "es_MX": "Desuello de Cataclysm",
+          "pt_BR": "Esfolamento de Cataclysm",
+          "de_DE": "Kürschnerei des Kataklysmus",
+          "en_GB": "Cataclysm Skinning",
+          "es_ES": "Desuello de Cataclysm",
+          "fr_FR": "Dépeçage de Cataclysm",
+          "it_IT": "Scuoiatura di Cataclysm",
+          "ru_RU": "Снятие шкур времен Катаклизма",
+          "ko_KR": "대격변 무두질",
+          "zh_TW": "大災變剝皮",
+          "zh_CN": "大地的裂变剥皮"
+        },
+        "id": 2561
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/393/skill-tier/2562?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Northrend Skinning",
+          "es_MX": "Desuello de Rasganorte",
+          "pt_BR": "Esfolamento de Nortúndria",
+          "de_DE": "Kürschnerei von Nordend",
+          "en_GB": "Northrend Skinning",
+          "es_ES": "Desuello de Rasganorte",
+          "fr_FR": "Dépeçage du Norfendre",
+          "it_IT": "Scuoiatura di Nordania",
+          "ru_RU": "Снятие шкур в Нордсколе",
+          "ko_KR": "노스렌드 무두질",
+          "zh_TW": "北裂境剝皮",
+          "zh_CN": "诺森德剥皮"
+        },
+        "id": 2562
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/393/skill-tier/2563?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Outland Skinning",
+          "es_MX": "Desuello de Terrallende",
+          "pt_BR": "Esfolamento de Terralém",
+          "de_DE": "Kürschnerei der Scherbenwelt",
+          "en_GB": "Outland Skinning",
+          "es_ES": "Desuello de Terrallende",
+          "fr_FR": "Dépeçage de l’Outreterre",
+          "it_IT": "Scuoiatura delle Terre Esterne",
+          "ru_RU": "Снятие шкур в Запределье",
+          "ko_KR": "아웃랜드 무두질",
+          "zh_TW": "外域剝皮",
+          "zh_CN": "外域剥皮"
+        },
+        "id": 2563
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/393/skill-tier/2564?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Skinning",
+          "es_MX": "Desuello",
+          "pt_BR": "Esfolamento",
+          "de_DE": "Kürschnerei",
+          "en_GB": "Skinning",
+          "es_ES": "Desuello",
+          "fr_FR": "Dépeçage",
+          "it_IT": "Scuoiatura",
+          "ru_RU": "Снятие шкур",
+          "ko_KR": "무두질",
+          "zh_TW": "剝皮",
+          "zh_CN": "剥皮"
+        },
+        "id": 2564
+      }
+    ]
+  },
+  {
+    "_links": {
+      "self": {
+        "href": "https://us.api.blizzard.com/data/wow/profession/755?namespace=static-8.3.0_32861-us"
+      }
+    },
+    "id": 755,
+    "name": {
+      "en_US": "Jewelcrafting",
+      "es_MX": "Joyería",
+      "pt_BR": "Joalheria",
+      "de_DE": "Juwelierskunst",
+      "en_GB": "Jewelcrafting",
+      "es_ES": "Joyería",
+      "fr_FR": "Joaillerie",
+      "it_IT": "Oreficeria",
+      "ru_RU": "Ювелирное дело",
+      "ko_KR": "보석세공",
+      "zh_TW": "珠寶設計",
+      "zh_CN": "珠宝加工"
+    },
+    "description": {
+      "en_US": "Higher jewelcrafting skill allows you to learn higher level jewelcrafting plans.  Jewelcrafting plans can be found on trainers around the world as well as from quests and monsters.",
+      "es_MX": "Con un nivel alto de habilidad en joyería, aprenderás diseños de nivel superior. Visita a los instructores dispersos por el mundo, completa misiones y derrota a los monstruos para conseguirlos.",
+      "pt_BR": "Um alto nível na perícia joalheria permite aprender instruções de nível mais alto.  As instruções podem ser aprendidas ou compradas dos instrutores de joalheria espalhados pelo mundo, bem como saqueadas de monstros e obtidas como recompensa de missões.",
+      "de_DE": "Eine hohe Juweliersfertigkeit ermöglicht es Euch, höherstufigere Vorlagen zu benutzen. Vorlagen bekommt Ihr bei allen Juwelierskunstlehrern, von toten Gegnern und als Questbelohnung.",
+      "en_GB": "Higher jewelcrafting skill allows you to learn higher level jewelcrafting plans.  Jewelcrafting plans can be found on trainers around the world as well as from quests and monsters.",
+      "es_ES": "Con un nivel alto de habilidad en joyería, aprenderás diseños de nivel superior. Visita a los instructores dispersos por el mundo, completa misiones y derrota a los monstruos para conseguirlos.",
+      "fr_FR": "Un plus haut score dans la compétence joaillerie vous permet d'apprendre des dessins de joaillier plus difficiles. Ces dessins peuvent être trouvés auprès de maîtres un peu partout dans le monde, sur des monstres ou en récompense de quêtes.",
+      "it_IT": "Una maggiore competenza in Oreficeria permette di apprendere progetti di livello superiore. I progetti possono essere acquistati da venditori o istruttori in giro per il mondo o essere ottenuti attraverso missioni o uccidendo mostri.",
+      "ru_RU": "Чем лучше развит этот навык, тем более сложные эскизы вы можете использовать. Эскизы можно найти у учителей, а также получить в качестве добычи или награды.",
+      "ko_KR": "보석세공 숙련도가 올라갈수록 고급 세공술을 배울 수 있습니다. 보석세공은 전문 보석세공인이나 퀘스트로 배울 수 있습니다.",
+      "zh_TW": "高級的珠寶設計技能使你可以學習高級的珠寶設計。你可以在訓練師那裡學習新的圖樣，也可以通過完成任務或殺死怪物獲得新的圖樣。",
+      "zh_CN": "高级的珠宝加工技能使你可以学习高级的珠宝加工图鉴。你可以在训练师那里学习新的图鉴，也可以通过完成任务或杀死怪物获得新的图鉴。"
+    },
+    "type": {
+      "type": "PRIMARY",
+      "name": {
+        "en_US": "Primary",
+        "es_MX": "Principal",
+        "pt_BR": "Principal",
+        "de_DE": "Primär",
+        "en_GB": "Primary",
+        "es_ES": "Principal",
+        "fr_FR": "Principaux",
+        "it_IT": "Primario",
+        "ru_RU": "Основное",
+        "ko_KR": "주",
+        "zh_TW": "主要",
+        "zh_CN": "主要"
+      }
+    },
+    "media": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/media/profession/755?namespace=static-8.3.0_32861-us"
+      },
+      "id": 755
+    },
+    "skill_tiers": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/755/skill-tier/2517?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Kul Tiran Jewelcrafting / Zandalari Jewelcrafting",
+          "es_MX": "Joyería kultirana / Joyería zandalari",
+          "pt_BR": "Joalheria de Kul Tiraz / Joalheria de Zandalar",
+          "de_DE": "Juwelierskunst von Kul Tiras / Juwelierskunst von Zandalar",
+          "en_GB": "Kul Tiran Jewelcrafting / Zandalari Jewelcrafting",
+          "es_ES": "Joyería de Kul Tiras / Joyería Zandalari",
+          "fr_FR": "Joaillerie de Kul Tiras / Joaillerie de Zandalar",
+          "it_IT": "Oreficeria di Kul Tiras / Oreficeria di Zandalar",
+          "ru_RU": "Кул-тирасское ювелирное дело / Зандаларское ювелирное дело",
+          "ko_KR": "쿨 티란 보석세공 / 잔달라 보석세공",
+          "zh_TW": "庫爾提拉斯珠寶設計 / 贊達拉珠寶設計",
+          "zh_CN": "库尔提拉斯珠宝加工 / 赞达拉珠宝加工"
+        },
+        "id": 2517
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/755/skill-tier/2518?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Legion Jewelcrafting",
+          "es_MX": "Joyería de Legion",
+          "pt_BR": "Joalheria de Legion",
+          "de_DE": "Juwelierskunst der Verheerten Inseln",
+          "en_GB": "Legion Jewelcrafting",
+          "es_ES": "Joyería de Legion",
+          "fr_FR": "Joaillerie de Legion",
+          "it_IT": "Oreficeria di Legion",
+          "ru_RU": "Ювелирное дело Legion",
+          "ko_KR": "군단 보석세공",
+          "zh_TW": "軍團珠寶設計",
+          "zh_CN": "军团珠宝加工"
+        },
+        "id": 2518
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/755/skill-tier/2519?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Draenor Jewelcrafting",
+          "es_MX": "Joyería de Draenor",
+          "pt_BR": "Joalheria de Draenor",
+          "de_DE": "Juwelierskunst von Draenor",
+          "en_GB": "Draenor Jewelcrafting",
+          "es_ES": "Joyería de Draenor",
+          "fr_FR": "Joaillerie de Draenor",
+          "it_IT": "Oreficeria di Draenor",
+          "ru_RU": "Ювелирное дело Дренора",
+          "ko_KR": "드레노어 보석세공",
+          "zh_TW": "德拉諾珠寶學",
+          "zh_CN": "德拉诺珠宝加工"
+        },
+        "id": 2519
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/755/skill-tier/2520?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Pandaria Jewelcrafting",
+          "es_MX": "Joyería de Pandaria",
+          "pt_BR": "Joalheria de Pandária",
+          "de_DE": "Juwelierskunst von Pandaria",
+          "en_GB": "Pandaria Jewelcrafting",
+          "es_ES": "Joyería de Pandaria",
+          "fr_FR": "Joaillerie de Pandarie",
+          "it_IT": "Oreficeria di Pandaria",
+          "ru_RU": "Ювелирное дело Пандарии",
+          "ko_KR": "판다리아 보석세공",
+          "zh_TW": "潘達利亞珠寶設計",
+          "zh_CN": "潘达利亚珠宝加工"
+        },
+        "id": 2520
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/755/skill-tier/2521?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Cataclysm Jewelcrafting",
+          "es_MX": "Joyería de Cataclysm",
+          "pt_BR": "Joalheria de Cataclysm",
+          "de_DE": "Juwelierskunst des Kataklysmus",
+          "en_GB": "Cataclysm Jewelcrafting",
+          "es_ES": "Joyería de Cataclysm",
+          "fr_FR": "Joaillerie de Cataclysm",
+          "it_IT": "Oreficeria di Cataclysm",
+          "ru_RU": "Ювелирное дело времен Катаклизма",
+          "ko_KR": "대격변 보석세공",
+          "zh_TW": "大災變珠寶設計",
+          "zh_CN": "大地的裂变珠宝加工"
+        },
+        "id": 2521
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/755/skill-tier/2522?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Northrend Jewelcrafting",
+          "es_MX": "Joyería de Rasganorte",
+          "pt_BR": "Joalheria de Nortúndria",
+          "de_DE": "Juwelierskunst von Nordend",
+          "en_GB": "Northrend Jewelcrafting",
+          "es_ES": "Joyería de Rasganorte",
+          "fr_FR": "Joaillerie du Norfendre",
+          "it_IT": "Oreficeria di Nordania",
+          "ru_RU": "Ювелирное дело Нордскола",
+          "ko_KR": "노스렌드 보석세공",
+          "zh_TW": "北裂境珠寶設計",
+          "zh_CN": "诺森德珠宝加工"
+        },
+        "id": 2522
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/755/skill-tier/2523?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Outland Jewelcrafting",
+          "es_MX": "Joyería de Terrallende",
+          "pt_BR": "Joalheria de Terralém",
+          "de_DE": "Juwelierskunst der Scherbenwelt",
+          "en_GB": "Outland Jewelcrafting",
+          "es_ES": "Joyería de Terrallende",
+          "fr_FR": "Joaillerie de l’Outreterre",
+          "it_IT": "Oreficeria delle Terre Esterne",
+          "ru_RU": "Ювелирное дело Запределья",
+          "ko_KR": "아웃랜드 보석세공",
+          "zh_TW": "外域珠寶設計",
+          "zh_CN": "外域珠宝加工"
+        },
+        "id": 2523
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/755/skill-tier/2524?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Jewelcrafting",
+          "es_MX": "Joyería",
+          "pt_BR": "Joalheria",
+          "de_DE": "Juwelierskunst",
+          "en_GB": "Jewelcrafting",
+          "es_ES": "Joyería",
+          "fr_FR": "Joaillerie",
+          "it_IT": "Oreficeria",
+          "ru_RU": "Ювелирное дело",
+          "ko_KR": "보석세공",
+          "zh_TW": "珠寶設計",
+          "zh_CN": "珠宝加工"
+        },
+        "id": 2524
+      }
+    ]
+  },
+  {
+    "_links": {
+      "self": {
+        "href": "https://us.api.blizzard.com/data/wow/profession/773?namespace=static-8.3.0_32861-us"
+      }
+    },
+    "id": 773,
+    "name": {
+      "en_US": "Inscription",
+      "es_MX": "Inscripción",
+      "pt_BR": "Escrivania",
+      "de_DE": "Inschriftenkunde",
+      "en_GB": "Inscription",
+      "es_ES": "Inscripción",
+      "fr_FR": "Calligraphie",
+      "it_IT": "Runografia",
+      "ru_RU": "Начертание",
+      "ko_KR": "주문각인",
+      "zh_TW": "銘文學",
+      "zh_CN": "铭文"
+    },
+    "description": {
+      "en_US": "Higher inscription skill allows you to learn more advanced inscriptions.  Inscriptions are acquired from learned scribes throughout the world.",
+      "es_MX": "Con un nivel alto de habilidad en inscripción podrás aprender inscripciones más avanzadas. Las adquirirás aprendiendo pergaminos por el mundo.",
+      "pt_BR": "Um alto nível na perícia escrivania permite aprender inscrições mais avançadas. Inscrições são aprendidas com os escribas espalhados pelo mundo.",
+      "de_DE": "Eine höhere Inschriftenkundefertigkeit ermöglicht es Euch, fortgeschrittenere Inschriften zu erlernen. Inschriften könnt Ihr bei den gelehrten Schreibern überall in der Welt erwerben.",
+      "en_GB": "Higher inscription skill allows you to learn more advanced inscriptions.  Inscriptions are acquired from learned scribes throughout the world.",
+      "es_ES": "Con un nivel alto de habilidad en inscripción podrás aprender inscripciones más avanzadas. Las adquirirás aprendiendo pergaminos por el mundo.",
+      "fr_FR": "Un plus haut score dans la compétence calligraphie vous permet d'apprendre des calligraphies plus difficiles. Les calligraphies s'apprennent dans le monde entier auprès de maîtres scribes.",
+      "it_IT": "Una maggiore competenza in Runografia permette di apprendere iscrizioni di livello superiore. Le iscrizioni possono essere apprese dagli istruttori in giro per il mondo.",
+      "ru_RU": "Совершенствование навыка позволяет изучать более сложные способы начертания. Учителей начертания можно найти по всему миру.",
+      "ko_KR": "주문각인 숙련도가 올라갈수록 고급 주문각인술을 배울 수 있습니다. 세계 각지의 숙련된 각인사들을 통해 지식을 습득할 수 있습니다.",
+      "zh_TW": "高等級的銘文學可以讓你學會更高級的銘文。你也可以透過來自各地的卷軸學習銘文。",
+      "zh_CN": "高级的铭文技能使你可以学习制作高级的铭文。你可以通过各种卷轴学习铭文。"
+    },
+    "type": {
+      "type": "PRIMARY",
+      "name": {
+        "en_US": "Primary",
+        "es_MX": "Principal",
+        "pt_BR": "Principal",
+        "de_DE": "Primär",
+        "en_GB": "Primary",
+        "es_ES": "Principal",
+        "fr_FR": "Principaux",
+        "it_IT": "Primario",
+        "ru_RU": "Основное",
+        "ko_KR": "주",
+        "zh_TW": "主要",
+        "zh_CN": "主要"
+      }
+    },
+    "media": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/media/profession/773?namespace=static-8.3.0_32861-us"
+      },
+      "id": 773
+    },
+    "skill_tiers": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/773/skill-tier/2507?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Kul Tiran Inscription / Zandalari Inscription",
+          "es_MX": "Inscripción kultirana / Inscripción zandalari",
+          "pt_BR": "Escrivania de Kul Tiraz / Escrivania de Zandalar",
+          "de_DE": "Inschriftenkunde von Kul Tiras / Inschriftenkunde von Zandalar",
+          "en_GB": "Kul Tiran Inscription / Zandalari Inscription",
+          "es_ES": "Inscripción de Kul Tiras / Inscripción Zandalari",
+          "fr_FR": "Calligraphie de Kul Tiras / Calligraphie de Zandalar",
+          "it_IT": "Runografia di Kul Tiras / Runografia di Zandalar",
+          "ru_RU": "Кул-тирасское начертание / Зандаларское начертание",
+          "ko_KR": "쿨 티란 주문각인 / 잔달라 주문각인",
+          "zh_TW": "庫爾提拉斯銘文學 / 贊達拉銘文學",
+          "zh_CN": "库尔提拉斯铭文 / 赞达拉铭文"
+        },
+        "id": 2507
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/773/skill-tier/2508?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Legion Inscription",
+          "es_MX": "Inscripción de Legion",
+          "pt_BR": "Escrivania de Legion",
+          "de_DE": "Inschriftenkunde der Verheerten Inseln",
+          "en_GB": "Legion Inscription",
+          "es_ES": "Inscripción de Legion",
+          "fr_FR": "Calligraphie de Legion",
+          "it_IT": "Runografia di Legion",
+          "ru_RU": "Начертание Legion",
+          "ko_KR": "군단 주문각인",
+          "zh_TW": "軍團銘文學",
+          "zh_CN": "军团铭文"
+        },
+        "id": 2508
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/773/skill-tier/2509?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Draenor Inscription",
+          "es_MX": "Inscripción de Draenor",
+          "pt_BR": "Escrivania de Draenor",
+          "de_DE": "Inschriftenkunde von Draenor",
+          "en_GB": "Draenor Inscription",
+          "es_ES": "Inscripción de Draenor",
+          "fr_FR": "Calligraphie de Draenor",
+          "it_IT": "Runografia di Draenor",
+          "ru_RU": "Начертание Дренора",
+          "ko_KR": "드레노어 주문각인",
+          "zh_TW": "德拉諾銘文學",
+          "zh_CN": "德拉诺铭文"
+        },
+        "id": 2509
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/773/skill-tier/2510?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Pandaria Inscription",
+          "es_MX": "Inscripción de Pandaria",
+          "pt_BR": "Escrivania de Pandária",
+          "de_DE": "Inschriftenkunde von Pandaria",
+          "en_GB": "Pandaria Inscription",
+          "es_ES": "Inscripción de Pandaria",
+          "fr_FR": "Calligraphie de Pandarie",
+          "it_IT": "Runografia di Pandaria",
+          "ru_RU": "Начертание Пандарии",
+          "ko_KR": "판다리아 주문각인",
+          "zh_TW": "潘達利亞銘文學",
+          "zh_CN": "潘达利亚铭文"
+        },
+        "id": 2510
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/773/skill-tier/2511?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Cataclysm Inscription",
+          "es_MX": "Inscripción de Cataclysm",
+          "pt_BR": "Escrivania de Cataclysm",
+          "de_DE": "Inschriftenkunde des Kataklysmus",
+          "en_GB": "Cataclysm Inscription",
+          "es_ES": "Inscripción de Cataclysm",
+          "fr_FR": "Calligraphie de Cataclysm",
+          "it_IT": "Runografia di Cataclysm",
+          "ru_RU": "Начертание времен Катаклизма",
+          "ko_KR": "대격변 주문각인",
+          "zh_TW": "大災變銘文學",
+          "zh_CN": "大地的裂变铭文"
+        },
+        "id": 2511
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/773/skill-tier/2512?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Northrend Inscription",
+          "es_MX": "Inscripción de Rasganorte",
+          "pt_BR": "Escrivania de Nortúndria",
+          "de_DE": "Inschriftenkunde von Nordend",
+          "en_GB": "Northrend Inscription",
+          "es_ES": "Inscripción de Rasganorte",
+          "fr_FR": "Calligraphie du Norfendre",
+          "it_IT": "Runografia di Nordania",
+          "ru_RU": "Начертание Нордскола",
+          "ko_KR": "노스렌드 주문각인",
+          "zh_TW": "北裂境銘文學",
+          "zh_CN": "诺森德铭文"
+        },
+        "id": 2512
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/773/skill-tier/2513?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Outland Inscription",
+          "es_MX": "Inscripción de Terrallende",
+          "pt_BR": "Escrivania de Terralém",
+          "de_DE": "Inschriftenkunde der Scherbenwelt",
+          "en_GB": "Outland Inscription",
+          "es_ES": "Inscripción de Terrallende",
+          "fr_FR": "Calligraphie de l’Outreterre",
+          "it_IT": "Runografia delle Terre Esterne",
+          "ru_RU": "Начертание Запределья",
+          "ko_KR": "아웃랜드 주문각인",
+          "zh_TW": "外域銘文學",
+          "zh_CN": "外域铭文"
+        },
+        "id": 2513
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/profession/773/skill-tier/2514?namespace=static-8.3.0_32861-us"
+        },
+        "name": {
+          "en_US": "Inscription",
+          "es_MX": "Inscripción",
+          "pt_BR": "Escrivania",
+          "de_DE": "Inschriftenkunde",
+          "en_GB": "Inscription",
+          "es_ES": "Inscripción",
+          "fr_FR": "Calligraphie",
+          "it_IT": "Runografia",
+          "ru_RU": "Начертание",
+          "ko_KR": "주문각인",
+          "zh_TW": "銘文學",
+          "zh_CN": "铭文"
+        },
+        "id": 2514
+      }
+    ]
+  },
+  {
+    "_links": {
+      "self": {
+        "href": "https://us.api.blizzard.com/data/wow/profession/794?namespace=static-8.3.0_32861-us"
+      }
+    },
+    "id": 794,
+    "name": {
+      "en_US": "Archaeology",
+      "es_MX": "Arqueología",
+      "pt_BR": "Arqueologia",
+      "de_DE": "Archäologie",
+      "en_GB": "Archaeology",
+      "es_ES": "Arqueología",
+      "fr_FR": "Archéologie",
+      "it_IT": "Archeologia",
+      "ru_RU": "Археология",
+      "ko_KR": "고고학",
+      "zh_TW": "考古學",
+      "zh_CN": "考古学"
+    },
+    "description": {
+      "en_US": "Higher archaeology skill allows you to complete more valuable artifacts and collect more artifact fragments. Fragments can be found in ruins and dig sites.",
+      "es_MX": "Con un nivel alto de habilidad en arqueología podrás completar artefactos más valiosos y recoger más fragmentos de artefactos. Encontrarás los fragmentos en las ruinas y las excavaciones.",
+      "pt_BR": "Um alto nível na perícia arqueologia permite concluir artefatos mais valiosos e coletar mais fragmentos. Fragmentos podem ser encontrados em ruínas e escavações.",
+      "de_DE": "Eine höhere Archäologiefertigkeit gestattet es Euch, wertvollere Artefakte zusammenzustellen und mehr Artefaktfragmente zu sammeln. Fragmente können in Ruinen und in Grabungsstätten gefunden werden.",
+      "en_GB": "Higher archaeology skill allows you to complete more valuable artifacts and collect more artifact fragments. Fragments can be found in ruins and dig sites.",
+      "es_ES": "Con un nivel alto de habilidad en arqueología podrás completar artefactos más valiosos y recoger más fragmentos de artefacto. Encontrarás los fragmentos en las ruinas y las excavaciones.",
+      "fr_FR": "Un plus haut score dans la compétence archéologie vous permet d'assembler des artéfacts ayant plus de valeur, et de trouver plus de fragments d'artéfacts. Les fragments se trouvent dans les ruines et les sites de fouilles.",
+      "it_IT": "Una maggiore competenza in Archeologia permette di completare manufatti di livello superiore e di raccogliere più frammenti alla volta. I frammenti possono essere trovati nelle rovine e nei siti di scavo.",
+      "ru_RU": "Чем лучше развит этот навык, тем более ценные артефакты вы сможете создавать и тем больше фрагментов артефактов вы сможете находить. Фрагменты можно найти среди руин и на местах раскопок.",
+      "ko_KR": "고고학 숙련도가 높으면 희귀한 유물을 복원하거나 유물 조각을 찾아낼 확률이 높아집니다. 유물 조각은 폐허나 발굴현장에서 발견할 수 있습니다.",
+      "zh_TW": "考古學技能越高，你越能收集更多稀有文物和文物碎片。碎片能在廢墟和挖掘場找到。",
+      "zh_CN": "高级的考古学技能使你可以完成更有价值的神器，并收集到更多的神器碎片。你能在遗迹和挖掘场中找到神器碎片。"
+    },
+    "type": {
+      "type": "SECONDARY",
+      "name": {
+        "en_US": "Secondary",
+        "es_MX": "Secundario",
+        "pt_BR": "Secundário",
+        "de_DE": "Sekundär",
+        "en_GB": "Secondary",
+        "es_ES": "Secundario",
+        "fr_FR": "Secondaires",
+        "it_IT": "Secondario",
+        "ru_RU": "Дополнительное",
+        "ko_KR": "보조",
+        "zh_TW": "次要",
+        "zh_CN": "次要"
+      }
+    },
+    "media": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/media/profession/794?namespace=static-8.3.0_32861-us"
+      },
+      "id": 794
+    },
+    "minimum_skill_level": 1,
+    "maximum_skill_level": 950
+  }
+]
